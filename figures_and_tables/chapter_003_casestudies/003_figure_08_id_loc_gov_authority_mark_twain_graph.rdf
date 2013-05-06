@@ -1,0 +1,12 @@
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<madsrdf:PersonalName rdf:about="http://id.loc.gov/authorities/names/n79021164" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">
+ 	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+ 	<madsrdf:authoritativeLabel xml:lang="en">Twain, Mark, 1835-1910</madsrdf:authoritativeLabel>
+ 	<madsrdf:classification>PS1300-PS1348</madsrdf:classification>
+ 	<madsrdf:see rdf:resource="http://id.loc.gov/authorities/names/n93099461"/>
+ 	<madsrdf:hasExactExternalAuthority rdf:resource="http://viaf.org/viaf/sourceID/LC%7Cn+79021164#skos:Concept"/>
+ 	<madsrdf:isMemberOfMADSCollection rdf:resource="http://id.loc.gov/authorities/names/collection_NamesAuthorizedHeadings"/>
+</madsrdf:PersonalName>
+</rdf:RDF>
+

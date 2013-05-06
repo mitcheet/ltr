@@ -1,0 +1,263 @@
+﻿{"items": [{ 
+                "type": "Work", 
+                "id": "746732",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/746732",
+                "label": "The adventures of Huckleberry Finn (Tom Sawyer's comrade)",
+                "rdfs-label": ["The adventures of Huckleberry Finn (Tom Sawyer's comrade)", "Adventures of Huckleberry Finn"], 
+"bf-uniformTitle": "Adventures of Huckleberry Finn", 
+"madsrdf-elementList": [{ 
+                                    "type": "MainTitleElement", 
+                                    "madsrdf-elementValue": "Adventures of Huckleberry Finn"
+                                    }], 
+"bf-title": "The adventures of Huckleberry Finn (Tom Sawyer's comrade)", 
+"madsrdf-authoritativeLabel": "Twain, Mark, 1835-1910. Adventures of Huckleberry Finn", 
+"bf-language": "http://id.loc.gov/vocabulary/languages/eng", 
+"bf-subject": ["http://id.loc.gov/vocabulary/geographicAreas/nusm", "http://id.loc.gov/vocabulary/geographicAreas/nusmo", "topic2", "place3", "topic4", "topic5", "topic6", "topic7", "place8", "topic9", "genre10", "genre11", "genre12"], 
+"bf-class-lcc": "http://id.loc.gov/authorities/classification/PS1305", 
+"madsrdf-isMemberOfMADSScheme": "http://id.loc.gov/resources/works", 
+"bf-derivedFrom": "http://id.loc.gov/resources/bibs/746732", 
+"bf-creator": "person1", 
+"bf-class": ["classificationentity13", "classificationentity13", "classificationentity14"], 
+"bf-references": "work2", 
+"bf-instance": "instance1"
+                }, 
+{ 
+                "type": "Work", 
+                "id": "work2",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/work2",
+                "label": "BAL 3414",
+                "madsrdf-authoritativeLabel": "BAL 3414", 
+"bf-title": "BAL 3414"
+                }, 
+{ 
+                "type": "Instance", 
+                "id": "instance1",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/instance1",
+                "label": "",
+                "bf-title": "The adventures of Huckleberry Finn (Tom Sawyer's comrade)", 
+"bf-publication": [{ 
+                                    "type": "ProviderEntity", 
+                                    "bf-providerName": "Chatto &amp; Windus", 
+"bf-providerPlace": "London", 
+"bf-providerDate": "1884."
+                                    }], 
+"bf-derivedFromLccn": "http://id.loc.gov/authorities/identifiers/lccn/35020965", 
+"bf-extent": "xvi, 438, 32 p. :", 
+"bf-dimensions": "20 cm.", 
+"bf-instanceOf": "746732", 
+"bf-illustrativeContentNote": "ill. ;", 
+"bf-derivedFrom": "http://id.loc.gov/resources/bibs/746732", 
+"bf-contributor": "organization15"
+                }, 
+{ 
+                "type": "Person", 
+                "id": "person1",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/person1",
+                "label": "Twain, Mark, 1835-1910.",
+                "bf-label": "Twain, Mark, 1835-1910.", 
+"rdfs-label": "Twain, Mark, 1835-1910.", 
+"madsrdf-authoritativeLabel": "Twain, Mark, 1835-1910.", 
+"madsrdf-elementList": [{ 
+                                    "type": "NameElement", 
+                                    "madsrdf-elementValue": "Twain, Mark,"
+                                    }, { 
+                                    "type": "DateNameElement", 
+                                    "madsrdf-elementValue": "1835-1910."
+                                    }], 
+"bf-descriptionRole": "primary"
+                }, 
+{ 
+                "type": "Topic", 
+                "id": "topic2",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/topic2",
+                "label": "Finn, Huckleberry (Fictitious character)--Fiction",
+                "bf-label": "Finn, Huckleberry (Fictitious character)--Fiction", 
+"madsrdf-authoritativeLabel": "Finn, Huckleberry (Fictitious character)--Fiction", 
+"madsrdf-componentList": [{ 
+                                    "type": "Topic", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Finn, Huckleberry (Fictitious character)"
+                                    }, { 
+                                    "type": "GenreForm", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Fiction"
+                                    }]
+                }, 
+{ 
+                "type": "Place", 
+                "id": "place3",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/place3",
+                "label": "Mississippi River--Fiction",
+                "bf-label": "Mississippi River--Fiction", 
+"madsrdf-authoritativeLabel": "Mississippi River--Fiction", 
+"madsrdf-componentList": [{ 
+                                    "type": "Geographic", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Mississippi River"
+                                    }, { 
+                                    "type": "GenreForm", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Fiction"
+                                    }]
+                }, 
+{ 
+                "type": "Topic", 
+                "id": "topic4",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/topic4",
+                "label": "Runaway children--Fiction",
+                "bf-label": "Runaway children--Fiction", 
+"madsrdf-authoritativeLabel": "Runaway children--Fiction", 
+"madsrdf-componentList": [{ 
+                                    "type": "Topic", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Runaway children"
+                                    }, { 
+                                    "type": "GenreForm", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Fiction"
+                                    }]
+                }, 
+{ 
+                "type": "Topic", 
+                "id": "topic5",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/topic5",
+                "label": "Male friendship--Fiction",
+                "bf-label": "Male friendship--Fiction", 
+"madsrdf-authoritativeLabel": "Male friendship--Fiction", 
+"madsrdf-componentList": [{ 
+                                    "type": "Topic", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Male friendship"
+                                    }, { 
+                                    "type": "GenreForm", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Fiction"
+                                    }]
+                }, 
+{ 
+                "type": "Topic", 
+                "id": "topic6",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/topic6",
+                "label": "Fugitive slaves--Fiction",
+                "bf-label": "Fugitive slaves--Fiction", 
+"madsrdf-authoritativeLabel": "Fugitive slaves--Fiction", 
+"madsrdf-componentList": [{ 
+                                    "type": "Topic", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Fugitive slaves"
+                                    }, { 
+                                    "type": "GenreForm", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Fiction"
+                                    }]
+                }, 
+{ 
+                "type": "Topic", 
+                "id": "topic7",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/topic7",
+                "label": "Race relations--Fiction",
+                "bf-label": "Race relations--Fiction", 
+"madsrdf-authoritativeLabel": "Race relations--Fiction", 
+"madsrdf-componentList": [{ 
+                                    "type": "Topic", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Race relations"
+                                    }, { 
+                                    "type": "GenreForm", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Fiction"
+                                    }]
+                }, 
+{ 
+                "type": "Place", 
+                "id": "place8",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/place8",
+                "label": "Missouri--Fiction",
+                "bf-label": "Missouri--Fiction", 
+"madsrdf-authoritativeLabel": "Missouri--Fiction", 
+"madsrdf-componentList": [{ 
+                                    "type": "Geographic", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Missouri"
+                                    }, { 
+                                    "type": "GenreForm", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Fiction"
+                                    }]
+                }, 
+{ 
+                "type": "Topic", 
+                "id": "topic9",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/topic9",
+                "label": "Boys--Fiction",
+                "bf-label": "Boys--Fiction", 
+"madsrdf-authoritativeLabel": "Boys--Fiction", 
+"madsrdf-componentList": [{ 
+                                    "type": "Topic", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Boys"
+                                    }, { 
+                                    "type": "GenreForm", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Fiction"
+                                    }]
+                }, 
+{ 
+                "type": "Genre", 
+                "id": "genre10",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/genre10",
+                "label": "Adventure fiction",
+                "bf-label": "Adventure fiction", 
+"madsrdf-authoritativeLabel": "Adventure fiction"
+                }, 
+{ 
+                "type": "Genre", 
+                "id": "genre11",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/genre11",
+                "label": "Humorous fiction",
+                "bf-label": "Humorous fiction", 
+"madsrdf-authoritativeLabel": "Humorous fiction"
+                }, 
+{ 
+                "type": "Genre", 
+                "id": "genre12",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/genre12",
+                "label": "Bildungsromans",
+                "bf-label": "Bildungsromans", 
+"madsrdf-authoritativeLabel": "Bildungsromans"
+                }, 
+{ 
+                "type": "ClassificationEntity", 
+                "id": "classificationentity13",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/classificationentity13",
+                "label": "PS1305",
+                "bf-classScheme": "lcc", 
+"bf-classNumber": "PS1305", 
+"bf-label": "PS1305", 
+"bf-classAssigner": "http://id.loc.gov/vocabulary/organizations/dlc", 
+"bf-classCopy": "Copy 2. In quarter bound morocco slipcase. Thread-sewn."
+                }, 
+{ 
+                "type": "ClassificationEntity", 
+                "id": "classificationentity14",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/classificationentity14",
+                "label": "817.44",
+                "bf-classScheme": "ddc", 
+"bf-classNumber": "817.44", 
+"bf-label": "817.44", 
+"bf-classEdition": "full"
+                }, 
+{ 
+                "type": "Organization", 
+                "id": "organization15",
+                "uri": "http://bibframe.org/resources/aNJ1367336414/organization15",
+                "label": "Roy J. Friedman Mark Twain Collection (Library of Congress)",
+                "bf-label": "Roy J. Friedman Mark Twain Collection (Library of Congress)", 
+"rdfs-label": "Roy J. Friedman Mark Twain Collection (Library of Congress)", 
+"madsrdf-authoritativeLabel": "Roy J. Friedman Mark Twain Collection (Library of Congress)", 
+"madsrdf-elementList": [{ 
+                                    "type": "NameElement", 
+                                    "madsrdf-elementValue": "Roy J. Friedman Mark Twain Collection (Library of Congress)"
+                                    }], 
+"bf-descriptionRole": "secondary"
+                }]}

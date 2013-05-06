@@ -1,0 +1,15 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/instance1">
+    <bf:title xmlns:dcterms="http://purl.org/dc/terms/">The adventures of Huckleberry Finn (Tom Sawyer's comrade)</bf:title>
+    <bf:publication xmlns:dcterms="http://purl.org/dc/terms/">
+      <bf:ProviderEntity>
+        <bf:providerName>Chatto &amp; Windus</bf:providerName>
+        <bf:providerPlace>London</bf:providerPlace>
+        <bf:providerDate>1884.</bf:providerDate>
+      </bf:ProviderEntity>
+    </bf:publication>
+    <bf:derivedFromLccn xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://id.loc.gov/authorities/identifiers/lccn/35020965"/>
+    <bf:extent xmlns:dcterms="http://purl.org/dc/terms/">xvi, 438, 32 p. :</bf:extent>
+    <bf:instanceOf xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://bibframe.org/resources/aNJ1367336414/746732"/>
+  </bf:Instance>
+  </rdf:RDF>

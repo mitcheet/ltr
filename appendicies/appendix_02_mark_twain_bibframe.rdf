@@ -1,0 +1,232 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/746732">
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcterms="http://purl.org/dc/terms/">The adventures of Huckleberry Finn (Tom Sawyer's comrade)</rdfs:label>
+    <rdf:type xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://bibframe.org/vocab/LanguageMaterial"/>
+    <bf:uniformTitle xmlns:dcterms="http://purl.org/dc/terms/">Adventures of Huckleberry Finn</bf:uniformTitle>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcterms="http://purl.org/dc/terms/">Adventures of Huckleberry Finn</rdfs:label>
+    <madsrdf:elementList xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" rdf:parseType="Collection">
+      <madsrdf:MainTitleElement>
+        <madsrdf:elementValue>Adventures of Huckleberry Finn</madsrdf:elementValue>
+      </madsrdf:MainTitleElement>
+    </madsrdf:elementList>
+    <bf:title xmlns:dcterms="http://purl.org/dc/terms/">The adventures of Huckleberry Finn (Tom Sawyer's comrade)</bf:title>
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/">Twain, Mark, 1835-1910. Adventures of Huckleberry Finn</madsrdf:authoritativeLabel>
+    <bf:language xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+    <bf:subject xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://id.loc.gov/vocabulary/geographicAreas/nusm"/>
+    <bf:subject xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://id.loc.gov/vocabulary/geographicAreas/nusmo"/>
+    <bf:class-lcc xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://id.loc.gov/authorities/classification/PS1305"/>
+    <madsrdf:isMemberOfMADSScheme xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://id.loc.gov/resources/works"/>
+    <bf:derivedFrom xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://id.loc.gov/resources/bibs/746732"/>
+    <bf:creator rdf:resource="http://bibframe.org/resources/aNJ1367336414/person1"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/aNJ1367336414/topic2"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/aNJ1367336414/place3"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/aNJ1367336414/topic4"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/aNJ1367336414/topic5"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/aNJ1367336414/topic6"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/aNJ1367336414/topic7"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/aNJ1367336414/place8"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/aNJ1367336414/topic9"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/aNJ1367336414/genre10"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/aNJ1367336414/genre11"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/aNJ1367336414/genre12"/>
+    <bf:class rdf:resource="http://bibframe.org/resources/aNJ1367336414/classificationentity13"/>
+    <bf:class rdf:resource="http://bibframe.org/resources/aNJ1367336414/classificationentity13"/>
+    <bf:class rdf:resource="http://bibframe.org/resources/aNJ1367336414/classificationentity14"/>
+    <bf:references rdf:resource="http://bibframe.org/resources/aNJ1367336414/work2"/>
+    <bf:instance rdf:resource="http://bibframe.org/resources/aNJ1367336414/instance1"/>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/work2">
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/">BAL 3414</madsrdf:authoritativeLabel>
+    <bf:title xmlns:dcterms="http://purl.org/dc/terms/">BAL 3414</bf:title>
+  </bf:Work>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/instance1">
+    <bf:title xmlns:dcterms="http://purl.org/dc/terms/">The adventures of Huckleberry Finn (Tom Sawyer's comrade)</bf:title>
+    <bf:publication xmlns:dcterms="http://purl.org/dc/terms/">
+      <bf:ProviderEntity>
+        <bf:providerName>Chatto &amp; Windus</bf:providerName>
+        <bf:providerPlace>London</bf:providerPlace>
+        <bf:providerDate>1884.</bf:providerDate>
+      </bf:ProviderEntity>
+    </bf:publication>
+    <bf:derivedFromLccn xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://id.loc.gov/authorities/identifiers/lccn/35020965"/>
+    <bf:extent xmlns:dcterms="http://purl.org/dc/terms/">xvi, 438, 32 p. :</bf:extent>
+    <bf:dimensions xmlns:dcterms="http://purl.org/dc/terms/">20 cm.</bf:dimensions>
+    <bf:instanceOf xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://bibframe.org/resources/aNJ1367336414/746732"/>
+    <bf:illustrativeContentNote xmlns:dcterms="http://purl.org/dc/terms/">ill. ;</bf:illustrativeContentNote>
+    <bf:derivedFrom xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://id.loc.gov/resources/bibs/746732"/>
+    <bf:contributor rdf:resource="http://bibframe.org/resources/aNJ1367336414/organization15"/>
+  </bf:Instance>
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/person1">
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">Twain, Mark, 1835-1910.</bf:label>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcterms="http://purl.org/dc/terms/">Twain, Mark, 1835-1910.</rdfs:label>
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/">Twain, Mark, 1835-1910.</madsrdf:authoritativeLabel>
+    <madsrdf:elementList xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" rdf:parseType="Collection">
+      <madsrdf:NameElement>
+        <madsrdf:elementValue>Twain, Mark,</madsrdf:elementValue>
+      </madsrdf:NameElement>
+      <madsrdf:DateNameElement>
+        <madsrdf:elementValue>1835-1910.</madsrdf:elementValue>
+      </madsrdf:DateNameElement>
+    </madsrdf:elementList>
+    <bf:descriptionRole xmlns:dcterms="http://purl.org/dc/terms/">primary</bf:descriptionRole>
+  </bf:Person>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/topic2">
+    <rdf:type xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">Finn, Huckleberry (Fictitious character)--Fiction</bf:label>
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Finn, Huckleberry (Fictitious character)--Fiction</madsrdf:authoritativeLabel>
+    <madsrdf:componentList xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" rdf:parseType="Collection">
+      <madsrdf:Topic>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+        <madsrdf:authoritativeLabel xml:lang="en">Finn, Huckleberry (Fictitious character)</madsrdf:authoritativeLabel>
+      </madsrdf:Topic>
+      <madsrdf:GenreForm>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+        <madsrdf:authoritativeLabel xml:lang="en">Fiction</madsrdf:authoritativeLabel>
+      </madsrdf:GenreForm>
+    </madsrdf:componentList>
+  </bf:Topic>
+  <bf:Place xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/place3">
+    <rdf:type xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">Mississippi River--Fiction</bf:label>
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Mississippi River--Fiction</madsrdf:authoritativeLabel>
+    <madsrdf:componentList xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" rdf:parseType="Collection">
+      <madsrdf:Geographic>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+        <madsrdf:authoritativeLabel xml:lang="en">Mississippi River</madsrdf:authoritativeLabel>
+      </madsrdf:Geographic>
+      <madsrdf:GenreForm>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+        <madsrdf:authoritativeLabel xml:lang="en">Fiction</madsrdf:authoritativeLabel>
+      </madsrdf:GenreForm>
+    </madsrdf:componentList>
+  </bf:Place>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/topic4">
+    <rdf:type xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">Runaway children--Fiction</bf:label>
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Runaway children--Fiction</madsrdf:authoritativeLabel>
+    <madsrdf:componentList xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" rdf:parseType="Collection">
+      <madsrdf:Topic>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+        <madsrdf:authoritativeLabel xml:lang="en">Runaway children</madsrdf:authoritativeLabel>
+      </madsrdf:Topic>
+      <madsrdf:GenreForm>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+        <madsrdf:authoritativeLabel xml:lang="en">Fiction</madsrdf:authoritativeLabel>
+      </madsrdf:GenreForm>
+    </madsrdf:componentList>
+  </bf:Topic>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/topic5">
+    <rdf:type xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">Male friendship--Fiction</bf:label>
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Male friendship--Fiction</madsrdf:authoritativeLabel>
+    <madsrdf:componentList xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" rdf:parseType="Collection">
+      <madsrdf:Topic>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+        <madsrdf:authoritativeLabel xml:lang="en">Male friendship</madsrdf:authoritativeLabel>
+      </madsrdf:Topic>
+      <madsrdf:GenreForm>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+        <madsrdf:authoritativeLabel xml:lang="en">Fiction</madsrdf:authoritativeLabel>
+      </madsrdf:GenreForm>
+    </madsrdf:componentList>
+  </bf:Topic>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/topic6">
+    <rdf:type xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">Fugitive slaves--Fiction</bf:label>
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Fugitive slaves--Fiction</madsrdf:authoritativeLabel>
+    <madsrdf:componentList xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" rdf:parseType="Collection">
+      <madsrdf:Topic>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+        <madsrdf:authoritativeLabel xml:lang="en">Fugitive slaves</madsrdf:authoritativeLabel>
+      </madsrdf:Topic>
+      <madsrdf:GenreForm>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+        <madsrdf:authoritativeLabel xml:lang="en">Fiction</madsrdf:authoritativeLabel>
+      </madsrdf:GenreForm>
+    </madsrdf:componentList>
+  </bf:Topic>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/topic7">
+    <rdf:type xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">Race relations--Fiction</bf:label>
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Race relations--Fiction</madsrdf:authoritativeLabel>
+    <madsrdf:componentList xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" rdf:parseType="Collection">
+      <madsrdf:Topic>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+        <madsrdf:authoritativeLabel xml:lang="en">Race relations</madsrdf:authoritativeLabel>
+      </madsrdf:Topic>
+      <madsrdf:GenreForm>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+        <madsrdf:authoritativeLabel xml:lang="en">Fiction</madsrdf:authoritativeLabel>
+      </madsrdf:GenreForm>
+    </madsrdf:componentList>
+  </bf:Topic>
+  <bf:Place xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/place8">
+    <rdf:type xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">Missouri--Fiction</bf:label>
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Missouri--Fiction</madsrdf:authoritativeLabel>
+    <madsrdf:componentList xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" rdf:parseType="Collection">
+      <madsrdf:Geographic>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+        <madsrdf:authoritativeLabel xml:lang="en">Missouri</madsrdf:authoritativeLabel>
+      </madsrdf:Geographic>
+      <madsrdf:GenreForm>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+        <madsrdf:authoritativeLabel xml:lang="en">Fiction</madsrdf:authoritativeLabel>
+      </madsrdf:GenreForm>
+    </madsrdf:componentList>
+  </bf:Place>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/topic9">
+    <rdf:type xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">Boys--Fiction</bf:label>
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Boys--Fiction</madsrdf:authoritativeLabel>
+    <madsrdf:componentList xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" rdf:parseType="Collection">
+      <madsrdf:Topic>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+        <madsrdf:authoritativeLabel xml:lang="en">Boys</madsrdf:authoritativeLabel>
+      </madsrdf:Topic>
+      <madsrdf:GenreForm>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+        <madsrdf:authoritativeLabel xml:lang="en">Fiction</madsrdf:authoritativeLabel>
+      </madsrdf:GenreForm>
+    </madsrdf:componentList>
+  </bf:Topic>
+  <bf:Genre xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/genre10">
+    <rdf:type xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">Adventure fiction</bf:label>
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Adventure fiction</madsrdf:authoritativeLabel>
+  </bf:Genre>
+  <bf:Genre xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/genre11">
+    <rdf:type xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">Humorous fiction</bf:label>
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Humorous fiction</madsrdf:authoritativeLabel>
+  </bf:Genre>
+  <bf:Genre xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/genre12">
+    <rdf:type xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">Bildungsromans</bf:label>
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Bildungsromans</madsrdf:authoritativeLabel>
+  </bf:Genre>
+  <bf:ClassificationEntity xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/classificationentity13">
+    <bf:classScheme xmlns:dcterms="http://purl.org/dc/terms/">lcc</bf:classScheme>
+    <bf:classNumber xmlns:dcterms="http://purl.org/dc/terms/">PS1305</bf:classNumber>
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">PS1305</bf:label>
+    <bf:classAssigner xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+    <bf:classCopy xmlns:dcterms="http://purl.org/dc/terms/">Copy 2. In quarter bound morocco slipcase. Thread-sewn.</bf:classCopy>
+  </bf:ClassificationEntity>
+  <bf:ClassificationEntity xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/classificationentity14">
+    <bf:classScheme xmlns:dcterms="http://purl.org/dc/terms/">ddc</bf:classScheme>
+    <bf:classNumber xmlns:dcterms="http://purl.org/dc/terms/">817.44</bf:classNumber>
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">817.44</bf:label>
+    <bf:classEdition xmlns:dcterms="http://purl.org/dc/terms/">full</bf:classEdition>
+  </bf:ClassificationEntity>
+  <bf:Organization xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/organization15">
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">Roy J. Friedman Mark Twain Collection (Library of Congress)</bf:label>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcterms="http://purl.org/dc/terms/">Roy J. Friedman Mark Twain Collection (Library of Congress)</rdfs:label>
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/">Roy J. Friedman Mark Twain Collection (Library of Congress)</madsrdf:authoritativeLabel>
+    <madsrdf:elementList xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" rdf:parseType="Collection">
+      <madsrdf:NameElement>
+        <madsrdf:elementValue>Roy J. Friedman Mark Twain Collection (Library of Congress)</madsrdf:elementValue>
+      </madsrdf:NameElement>
+    </madsrdf:elementList>
+    <bf:descriptionRole xmlns:dcterms="http://purl.org/dc/terms/">secondary</bf:descriptionRole>
+  </bf:Organization>
+</rdf:RDF>

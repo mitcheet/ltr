@@ -1,0 +1,1863 @@
+{
+    "count": 2399506,
+    "start": 0,
+    "limit": 10,
+    "docs": [
+        {
+            "@context": {
+                "edm": "http://www.europeana.eu/schemas/edm/",
+                "isShownAt": "edm:isShownAt",
+                "dpla": "http://dp.la/terms/",
+                "dataProvider": "edm:dataProvider",
+                "aggregatedDigitalResource": "dpla:aggregatedDigitalResource",
+                "state": "dpla:state",
+                "hasView": "edm:hasView",
+                "provider": "edm:provider",
+                "collection": "dpla:aggregation",
+                "object": "edm:object",
+                "stateLocatedIn": "dpla:stateLocatedIn",
+                "begin": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:dateRangeStart"
+                },
+                "@vocab": "http://purl.org/dc/terms/",
+                "LCSH": "http://id.loc.gov/authorities/subjects",
+                "sourceResource": "edm:sourceResource",
+                "name": "xsd:string",
+                "coordinates": "dpla:coordinates",
+                "end": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:end"
+                },
+                "originalRecord": "dpla:originalRecord"
+            },
+            "isShownAt": "http://research.archives.gov/description/6750308",
+            "dataProvider": "National Archives at College Park - Still Pictures",
+            "hasView": [
+                {
+                    "format": "image/jpeg",
+                    "url": "http://media.nara.gov/stillpix/040-cfd/NOAA_2003_3137_4/40_CFD_NOAA_2003_3137_4_A0035.jpg"
+                }
+            ],
+            "provider": {
+                "@id": "http://dp.la/api/contributor/nara",
+                "name": "National Archives and Records Administration"
+            },
+            "object": "http://media.nara.gov/stillpix/040-cfd/NOAA_2003_3137_4/40_CFD_NOAA_2003_3137_4_A0035_t.jpg",
+            "id": "446ce780c2c8c6fd5a3c4857797ccddd",
+            "_rev": "1-d2eb9437ae1ea648e148316300293ad2",
+            "ingestDate": "2013-04-12T00:50:30.964451",
+            "_id": "nara--6750308",
+            "sourceResource": {
+                "title": "[Assignment: NOAA_2003_3137_4] National Oceanic and Atmospheric Administration - NATIONAL ESTUARIES DAY [40_CFD_NOAA_2003_3137_4_A0035.jpg]",
+                "rights": "Restrictions: Unrestricted; Use status: Unrestricted",
+                "format": [
+                    "Magnetic Disk: Hard Drive",
+                    "Magnetic Disk"
+                ],
+                "collection": {
+                    "id": "f88d724c58b0cedf575220f46dde777c",
+                    "title": "General Records of the Department of Commerce, 1898 - 2000",
+                    "@id": "http://dp.la/api/collections/f88d724c58b0cedf575220f46dde777c"
+                },
+                "stateLocatedIn": {
+                    "name": "MD"
+                },
+                "isPartOf": "File Unit: [Assignment: NOAA_2003_3137_4] National Oceanic and Atmospheric Administration - NATIONAL ESTUARIES DAY, 10/03/2002 - 10/03/2002; Series: Digital Photographs Relating to Agency Officials, Events and Activities, 2001 - 2005",
+                "date": {
+                    "displayDate": "10/03/2002",
+                    "end": "2002-10-03",
+                    "begin": "2002-10-03"
+                },
+                "type": "image",
+                "creator": "Department of Commerce. Office of the Secretary.\t(1913 -)"
+            },
+            "ingestType": "item",
+            "@id": "http://dp.la/api/items/446ce780c2c8c6fd5a3c4857797ccddd",
+            "originalRecord": {
+                "use-restriction": {
+                    "use-status": "Unrestricted",
+                    "specific-use-restrictions": null
+                },
+                "created-timestamp": "1/20/2013 18:37:59",
+                "access-restriction": {
+                    "restriction-status": "Unrestricted",
+                    "specific-access-restrictions": null
+                },
+                "indexable-dates": {
+                    "date-range": "[g_x64_31, g_x32_62, g_x16_125, g_x4_501, g_x4_500, g_x2_1000, b_x2_1002, b_x2_1001, g_x8_250, g_x128_15, b_x1_2001]"
+                },
+                "title-date": "10/03/2002",
+                "general-records-types": {
+                    "general-records-type": {
+                        "general-records-type-desc": "Photographs and other Graphic Materials",
+                        "general-records-type-id": "4237050",
+                        "num": "1"
+                    }
+                },
+                "parent": {
+                    "parent-id": "6750306",
+                    "parent-title": "[Assignment: NOAA_2003_3137_4] National Oceanic and Atmospheric Administration - NATIONAL ESTUARIES DAY, 10/03/2002 - 10/03/2002",
+                    "parent-lod": "File Unit"
+                },
+                "arc-id-desc": "6750308",
+                "physical-occurrences": {
+                    "physical-occurrence": [
+                        {
+                            "reference-units": {
+                                "reference-unit": {
+                                    "summary": "true",
+                                    "num": "1",
+                                    "phone": "301-837-0561",
+                                    "fax": "301-837-3621",
+                                    "email": "stillpixorder@nara.gov",
+                                    "mailcode": "RD-DC-S",
+                                    "name": "National Archives at College Park - Still Pictures",
+                                    "state": "MD",
+                                    "address1": "National Archives at College Park",
+                                    "address2": "8601 Adelphi Road",
+                                    "ref-id": "31",
+                                    "postcode": "20740-6001",
+                                    "city": "College Park"
+                                }
+                            },
+                            "copy-status": "Reproduction-Reference",
+                            "media-occurrences": {
+                                "media-occurrence": {
+                                    "num": "1",
+                                    "media-type": "Magnetic Disk: Hard Drive"
+                                }
+                            }
+                        },
+                        {
+                            "reference-units": {
+                                "reference-unit": {
+                                    "num": "1",
+                                    "phone": "301-837-0561",
+                                    "fax": "301-837-3621",
+                                    "email": "stillpixorder@nara.gov",
+                                    "mailcode": "RD-DC-S",
+                                    "name": "National Archives at College Park - Still Pictures",
+                                    "state": "MD",
+                                    "address1": "National Archives at College Park",
+                                    "address2": "8601 Adelphi Road",
+                                    "ref-id": "31",
+                                    "postcode": "20740-6001",
+                                    "city": "College Park"
+                                }
+                            },
+                            "copy-status": "Preservation",
+                            "media-occurrences": {
+                                "media-occurrence": {
+                                    "num": "1",
+                                    "media-type": "Magnetic Disk"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "creators": {
+                    "creator": {
+                        "summary": "true",
+                        "creator-record-type": "ORG",
+                        "creator-display": "Department of Commerce. Office of the Secretary.\t(1913 - )",
+                        "num": "1",
+                        "standard": "Y",
+                        "creator-id": "1146070",
+                        "creator-type": "Most Recent"
+                    }
+                },
+                "title-only": "[Assignment: NOAA_2003_3137_4] National Oceanic and Atmospheric Administration - NATIONAL ESTUARIES DAY [40_CFD_NOAA_2003_3137_4_A0035.jpg]",
+                "title": "[Assignment: NOAA_2003_3137_4] National Oceanic and Atmospheric Administration - NATIONAL ESTUARIES DAY [40_CFD_NOAA_2003_3137_4_A0035.jpg]",
+                "production-dates": {
+                    "production-date": "10/03/2002"
+                },
+                "_id": "6750308",
+                "arc-id": "6750308",
+                "level-of-desc": {
+                    "lod-display": "Item",
+                    "level-id": "NAVI"
+                },
+                "parent-control-group": {
+                    "parent-control-lod": "Record Group",
+                    "parent-control-id": "40",
+                    "parent-control-title": "General Records of the Department of Commerce, 1898 - 2000"
+                },
+                "edited-timestamp": "[g_x8_1943, b_x1_15545, g_x16_971, g_x4_3886, g_x64_242, g_x32_485, g_x128_121, g_x2_7772]",
+                "hierarchy": {
+                    "hierarchy-item": [
+                        {
+                            "hierarchy-item-id": "6750306",
+                            "hierarchy-item-lod": "File Unit",
+                            "hierarchy-item-title": "[Assignment: NOAA_2003_3137_4] National Oceanic and Atmospheric Administration - NATIONAL ESTUARIES DAY, 10/03/2002 - 10/03/2002"
+                        },
+                        {
+                            "hierarchy-item-id": "5950225",
+                            "hierarchy-item-inclusive-dates": "2001 - 2005",
+                            "hierarchy-item-lod": "Series",
+                            "hierarchy-item-title": "Digital Photographs Relating to Agency Officials, Events and Activities, 2001 - 2005"
+                        },
+                        {
+                            "hierarchy-item-id": "369",
+                            "hierarchy-item-record-group-number": "40",
+                            "hierarchy-item-lod": "Record Group",
+                            "hierarchy-item-title": "General Records of the Department of Commerce, 1898 - 2000"
+                        }
+                    ]
+                },
+                "objects": {
+                    "object": {
+                        "thumbnail-url": "http://media.nara.gov/stillpix/040-cfd/NOAA_2003_3137_4/40_CFD_NOAA_2003_3137_4_A0035_t.jpg",
+                        "num": "1",
+                        "object-sequence-number": "1",
+                        "mime-type": "image/jpeg",
+                        "file-size": "3601309",
+                        "file-url": "http://media.nara.gov/stillpix/040-cfd/NOAA_2003_3137_4/40_CFD_NOAA_2003_3137_4_A0035.jpg"
+                    }
+                }
+            },
+            "score": 1
+        },
+        {
+            "_rev": "1-5326102ebf16089d4b4de8c96558fa13",
+            "ingestDate": "2013-04-12T01:00:16.969568",
+            "@context": {
+                "edm": "http://www.europeana.eu/schemas/edm/",
+                "isShownAt": "edm:isShownAt",
+                "dpla": "http://dp.la/terms/",
+                "dataProvider": "edm:dataProvider",
+                "aggregatedDigitalResource": "dpla:aggregatedDigitalResource",
+                "state": "dpla:state",
+                "hasView": "edm:hasView",
+                "provider": "edm:provider",
+                "collection": "dpla:aggregation",
+                "object": "edm:object",
+                "stateLocatedIn": "dpla:stateLocatedIn",
+                "begin": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:dateRangeStart"
+                },
+                "@vocab": "http://purl.org/dc/terms/",
+                "LCSH": "http://id.loc.gov/authorities/subjects",
+                "sourceResource": "edm:sourceResource",
+                "name": "xsd:string",
+                "coordinates": "dpla:coordinates",
+                "end": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:dateRangeEnd"
+                },
+                "originalRecord": "dpla:originalRecord"
+            },
+            "id": "2623203c813609decb9b1337a9cf4d7e",
+            "isShownAt": "http://www.biodiversitylibrary.org/item/103283",
+            "_id": "bhl--http://www.biodiversitylibrary.org/item/103283",
+            "dataProvider": "University of Illinois Urbana Champaign",
+            "sourceResource": {
+                "title": "Observations on the Staphylinid groups Aleocharinas and Xantholinini, chiefly of America",
+                "collection": {
+                    "id": "24087df2c58f149a8167a9589cffd830",
+                    "title": "Volumes",
+                    "@id": "http://dp.la/api/collections/bhl--UoIUC",
+                    "name": "University of Illinois Urbana Champaign"
+                },
+                "format": "Book",
+                "language": [
+                    {
+                        "iso639_3": "eng",
+                        "name": "English"
+                    }
+                ],
+                "type": "text",
+                "date": {
+                    "displayDate": "1906",
+                    "end": "1906",
+                    "begin": "1906"
+                },
+                "publisher": "[n.p.],1906",
+                "creator": "Casey, Thos. L. (Thomas Lincoln), 1857-1925"
+            },
+            "provider": {
+                "@id": "http://dp.la/api/contributor/bhl",
+                "name": "Biodiversity Heritage Library"
+            },
+            "@id": "http://dp.la/api/items/2623203c813609decb9b1337a9cf4d7e",
+            "ingestType": "item",
+            "originalRecord": {
+                "handle": "http://www.biodiversitylibrary.org/item/103283",
+                "setSpec": "item",
+                "label": "Observations on the Staphylinid groups Aleocharinas and Xantholinini, chiefly of America. ",
+                "type": [
+                    "text",
+                    "Book"
+                ],
+                "date": "1906",
+                "publisher": "[n.p.],1906.",
+                "creator": "Casey, Thos. L.     (Thomas Lincoln), 1857-1925",
+                "id": "oai:biodiversitylibrary.org:item/103283",
+                "title": "Observations on the Staphylinid groups Aleocharinas and Xantholinini, chiefly of America. ",
+                "contributor": "University of Illinois Urbana Champaign",
+                "description": "1",
+                "datestamp": "2010-12-19T21:44:08Z",
+                "language": "English"
+            },
+            "score": 1
+        },
+        {
+            "@context": {
+                "edm": "http://www.europeana.eu/schemas/edm/",
+                "isShownAt": "edm:isShownAt",
+                "dpla": "http://dp.la/terms/",
+                "dataProvider": "edm:dataProvider",
+                "aggregatedDigitalResource": "dpla:aggregatedDigitalResource",
+                "state": "dpla:state",
+                "hasView": "edm:hasView",
+                "provider": "edm:provider",
+                "collection": "dpla:aggregation",
+                "object": "edm:object",
+                "stateLocatedIn": "dpla:stateLocatedIn",
+                "begin": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:dateRangeStart"
+                },
+                "@vocab": "http://purl.org/dc/terms/",
+                "LCSH": "http://id.loc.gov/authorities/subjects",
+                "sourceResource": "edm:sourceResource",
+                "name": "xsd:string",
+                "coordinates": "dpla:coordinates",
+                "end": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:end"
+                },
+                "originalRecord": "dpla:originalRecord"
+            },
+            "isShownAt": "http://research.archives.gov/description/6763038",
+            "dataProvider": "National Archives at College Park - Still Pictures",
+            "hasView": [
+                {
+                    "format": "image/jpeg",
+                    "url": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_98/40_CFD_OS_2003_1201_98_573.JPG"
+                }
+            ],
+            "provider": {
+                "@id": "http://dp.la/api/contributor/nara",
+                "name": "National Archives and Records Administration"
+            },
+            "object": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_98/40_CFD_OS_2003_1201_98_573_t.JPG",
+            "id": "9292d4211c31f05286e8b79394189dbe",
+            "_rev": "1-4e30d6b4cf07f5e956b1115c1d759bb1",
+            "ingestDate": "2013-04-12T00:59:25.032032",
+            "_id": "nara--6763038",
+            "sourceResource": {
+                "title": "[Assignment: OS_2003_1201_98] Office of the Secretary - PEC PRESS EVENT [40_CFD_OS_2003_1201_98_573.JPG]",
+                "rights": "Restrictions: Unrestricted; Use status: Unrestricted",
+                "format": [
+                    "Magnetic Disk: Hard Drive",
+                    "Magnetic Disk"
+                ],
+                "collection": {
+                    "id": "f88d724c58b0cedf575220f46dde777c",
+                    "title": "General Records of the Department of Commerce, 1898 - 2000",
+                    "@id": "http://dp.la/api/collections/f88d724c58b0cedf575220f46dde777c"
+                },
+                "stateLocatedIn": {
+                    "name": "MD"
+                },
+                "isPartOf": "File Unit: [Assignment: OS_2003_1201_98] Office of the Secretary - PEC PRESS EVENT, 02/26/2003 - 02/26/2003; Series: Digital Photographs Relating to Agency Officials, Events and Activities, 2001 - 2005",
+                "date": {
+                    "displayDate": "02/26/2003",
+                    "end": "2003-02-26",
+                    "begin": "2003-02-26"
+                },
+                "type": "image",
+                "creator": "Department of Commerce. Office of the Secretary.\t(1913 -)"
+            },
+            "ingestType": "item",
+            "@id": "http://dp.la/api/items/9292d4211c31f05286e8b79394189dbe",
+            "originalRecord": {
+                "use-restriction": {
+                    "use-status": "Unrestricted",
+                    "specific-use-restrictions": null
+                },
+                "created-timestamp": "1/20/2013 18:33:3",
+                "access-restriction": {
+                    "restriction-status": "Unrestricted",
+                    "specific-access-restrictions": null
+                },
+                "indexable-dates": {
+                    "date-range": "[g_x64_31, g_x32_62, g_x16_125, g_x4_501, g_x4_500, g_x2_1000, b_x2_1002, b_x2_1001, g_x8_250, g_x128_15, b_x1_2001]"
+                },
+                "title-date": "02/26/2003",
+                "general-records-types": {
+                    "general-records-type": {
+                        "general-records-type-desc": "Photographs and other Graphic Materials",
+                        "general-records-type-id": "4237050",
+                        "num": "1"
+                    }
+                },
+                "parent": {
+                    "parent-id": "6763030",
+                    "parent-title": "[Assignment: OS_2003_1201_98] Office of the Secretary - PEC PRESS EVENT, 02/26/2003 - 02/26/2003",
+                    "parent-lod": "File Unit"
+                },
+                "arc-id-desc": "6763038",
+                "physical-occurrences": {
+                    "physical-occurrence": [
+                        {
+                            "reference-units": {
+                                "reference-unit": {
+                                    "summary": "true",
+                                    "num": "1",
+                                    "phone": "301-837-0561",
+                                    "fax": "301-837-3621",
+                                    "email": "stillpixorder@nara.gov",
+                                    "mailcode": "RD-DC-S",
+                                    "name": "National Archives at College Park - Still Pictures",
+                                    "state": "MD",
+                                    "address1": "National Archives at College Park",
+                                    "address2": "8601 Adelphi Road",
+                                    "ref-id": "31",
+                                    "postcode": "20740-6001",
+                                    "city": "College Park"
+                                }
+                            },
+                            "copy-status": "Reproduction-Reference",
+                            "media-occurrences": {
+                                "media-occurrence": {
+                                    "num": "1",
+                                    "media-type": "Magnetic Disk: Hard Drive"
+                                }
+                            }
+                        },
+                        {
+                            "reference-units": {
+                                "reference-unit": {
+                                    "num": "1",
+                                    "phone": "301-837-0561",
+                                    "fax": "301-837-3621",
+                                    "email": "stillpixorder@nara.gov",
+                                    "mailcode": "RD-DC-S",
+                                    "name": "National Archives at College Park - Still Pictures",
+                                    "state": "MD",
+                                    "address1": "National Archives at College Park",
+                                    "address2": "8601 Adelphi Road",
+                                    "ref-id": "31",
+                                    "postcode": "20740-6001",
+                                    "city": "College Park"
+                                }
+                            },
+                            "copy-status": "Preservation",
+                            "media-occurrences": {
+                                "media-occurrence": {
+                                    "num": "1",
+                                    "media-type": "Magnetic Disk"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "creators": {
+                    "creator": {
+                        "summary": "true",
+                        "creator-record-type": "ORG",
+                        "creator-display": "Department of Commerce. Office of the Secretary.\t(1913 - )",
+                        "num": "1",
+                        "standard": "Y",
+                        "creator-id": "1146070",
+                        "creator-type": "Most Recent"
+                    }
+                },
+                "title-only": "[Assignment: OS_2003_1201_98] Office of the Secretary - PEC PRESS EVENT [40_CFD_OS_2003_1201_98_573.JPG]",
+                "title": "[Assignment: OS_2003_1201_98] Office of the Secretary - PEC PRESS EVENT [40_CFD_OS_2003_1201_98_573.JPG]",
+                "production-dates": {
+                    "production-date": "02/26/2003"
+                },
+                "_id": "6763038",
+                "arc-id": "6763038",
+                "level-of-desc": {
+                    "lod-display": "Item",
+                    "level-id": "NAVI"
+                },
+                "parent-control-group": {
+                    "parent-control-lod": "Record Group",
+                    "parent-control-id": "40",
+                    "parent-control-title": "General Records of the Department of Commerce, 1898 - 2000"
+                },
+                "edited-timestamp": "[g_x8_1943, g_x16_971, g_x4_3886, b_x1_15546, g_x64_242, g_x32_485, g_x2_7773, g_x128_121]",
+                "hierarchy": {
+                    "hierarchy-item": [
+                        {
+                            "hierarchy-item-id": "6763030",
+                            "hierarchy-item-lod": "File Unit",
+                            "hierarchy-item-title": "[Assignment: OS_2003_1201_98] Office of the Secretary - PEC PRESS EVENT, 02/26/2003 - 02/26/2003"
+                        },
+                        {
+                            "hierarchy-item-id": "5950225",
+                            "hierarchy-item-inclusive-dates": "2001 - 2005",
+                            "hierarchy-item-lod": "Series",
+                            "hierarchy-item-title": "Digital Photographs Relating to Agency Officials, Events and Activities, 2001 - 2005"
+                        },
+                        {
+                            "hierarchy-item-id": "369",
+                            "hierarchy-item-record-group-number": "40",
+                            "hierarchy-item-lod": "Record Group",
+                            "hierarchy-item-title": "General Records of the Department of Commerce, 1898 - 2000"
+                        }
+                    ]
+                },
+                "objects": {
+                    "object": {
+                        "thumbnail-url": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_98/40_CFD_OS_2003_1201_98_573_t.JPG",
+                        "num": "1",
+                        "object-sequence-number": "1",
+                        "mime-type": "image/jpeg",
+                        "file-size": "3586363",
+                        "file-url": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_98/40_CFD_OS_2003_1201_98_573.JPG"
+                    }
+                }
+            },
+            "score": 1
+        },
+        {
+            "_rev": "1-17fa4cc28349dbd00f88dc4e9e71f242",
+            "ingestDate": "2013-04-12T00:59:35.845757",
+            "@context": {
+                "edm": "http://www.europeana.eu/schemas/edm/",
+                "isShownAt": "edm:isShownAt",
+                "dpla": "http://dp.la/terms/",
+                "dataProvider": "edm:dataProvider",
+                "aggregatedDigitalResource": "dpla:aggregatedDigitalResource",
+                "state": "dpla:state",
+                "hasView": "edm:hasView",
+                "provider": "edm:provider",
+                "collection": "dpla:aggregation",
+                "object": "edm:object",
+                "stateLocatedIn": "dpla:stateLocatedIn",
+                "begin": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:dateRangeStart"
+                },
+                "@vocab": "http://purl.org/dc/terms/",
+                "LCSH": "http://id.loc.gov/authorities/subjects",
+                "sourceResource": "edm:sourceResource",
+                "name": "xsd:string",
+                "coordinates": "dpla:coordinates",
+                "end": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:dateRangeEnd"
+                },
+                "originalRecord": "dpla:originalRecord"
+            },
+            "id": "afb421eda044c48985a13d5ef8c95a58",
+            "isShownAt": "http://www.biodiversitylibrary.org/item/102893",
+            "_id": "bhl--http://www.biodiversitylibrary.org/item/102893",
+            "dataProvider": "University of Illinois Urbana Champaign",
+            "sourceResource": {
+                "title": "Brehms Tierleben; allgemeine kunde des thierreichs. Mit 1910 abbildungen im text, 11 karten und 180 tafeln in farbendruck und holzschnitt. /",
+                "description": "Vol. 3",
+                "subject": [
+                    {
+                        "name": "Animal behavior"
+                    },
+                    {
+                        "name": "Zoologia Geral"
+                    },
+                    {
+                        "name": "Zoology"
+                    }
+                ],
+                "language": [
+                    {
+                        "iso639_3": "deu",
+                        "name": "German"
+                    }
+                ],
+                "format": "Book",
+                "collection": {
+                    "id": "24087df2c58f149a8167a9589cffd830",
+                    "title": "Volumes",
+                    "@id": "http://dp.la/api/collections/bhl--UoIUC",
+                    "name": "University of Illinois Urbana Champaign"
+                },
+                "type": "text",
+                "publisher": "Leipzig :Bibliographisches Institute,1893-1900",
+                "creator": "Brehm, Alfred Edmund, 1829-1884"
+            },
+            "provider": {
+                "@id": "http://dp.la/api/contributor/bhl",
+                "name": "Biodiversity Heritage Library"
+            },
+            "@id": "http://dp.la/api/items/afb421eda044c48985a13d5ef8c95a58",
+            "ingestType": "item",
+            "originalRecord": {
+                "id": "oai:biodiversitylibrary.org:item/102893",
+                "title": "Brehms Tierleben; allgemeine kunde des thierreichs. Mit 1910 abbildungen im text, 11 karten und 180 tafeln in farbendruck und holzschnitt. /",
+                "handle": "http://www.biodiversitylibrary.org/item/102893",
+                "setSpec": "item",
+                "contributor": "University of Illinois Urbana Champaign",
+                "description": "vol. 3",
+                "subject": [
+                    "Animal behavior",
+                    "Zoologia Geral",
+                    "Zoology"
+                ],
+                "datestamp": "2010-12-05T20:46:08Z",
+                "label": "Brehms Tierleben; allgemeine kunde des thierreichs. Mit 1910 abbildungen im text, 11 karten und 180 tafeln in farbendruck und holzschnitt. /",
+                "language": "German",
+                "type": [
+                    "text",
+                    "Book"
+                ],
+                "creator": "Brehm, Alfred Edmund,      1829-1884",
+                "publisher": "Leipzig :Bibliographisches Institute,1893-1900."
+            },
+            "score": 1
+        },
+        {
+            "@context": {
+                "edm": "http://www.europeana.eu/schemas/edm/",
+                "isShownAt": "edm:isShownAt",
+                "dpla": "http://dp.la/terms/",
+                "dataProvider": "edm:dataProvider",
+                "aggregatedDigitalResource": "dpla:aggregatedDigitalResource",
+                "state": "dpla:state",
+                "hasView": "edm:hasView",
+                "provider": "edm:provider",
+                "collection": "dpla:aggregation",
+                "object": "edm:object",
+                "stateLocatedIn": "dpla:stateLocatedIn",
+                "begin": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:dateRangeStart"
+                },
+                "@vocab": "http://purl.org/dc/terms/",
+                "LCSH": "http://id.loc.gov/authorities/subjects",
+                "sourceResource": "edm:sourceResource",
+                "name": "xsd:string",
+                "coordinates": "dpla:coordinates",
+                "end": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:end"
+                },
+                "originalRecord": "dpla:originalRecord"
+            },
+            "isShownAt": "http://research.archives.gov/description/6750818",
+            "dataProvider": "National Archives at College Park - Still Pictures",
+            "hasView": [
+                {
+                    "format": "image/jpeg",
+                    "url": "http://media.nara.gov/stillpix/040-cfd/NOAA_2003_3137_71/40_CFD_NOAA_2003_3137_71_DSC_0255.JPG"
+                }
+            ],
+            "provider": {
+                "@id": "http://dp.la/api/contributor/nara",
+                "name": "National Archives and Records Administration"
+            },
+            "object": "http://media.nara.gov/stillpix/040-cfd/NOAA_2003_3137_71/40_CFD_NOAA_2003_3137_71_DSC_0255_t.JPG",
+            "id": "3c1b7f4eeed378d07469e1ed4740ddfe",
+            "_rev": "1-e3875b0434427e93b58415d97ade3d9b",
+            "ingestDate": "2013-04-12T00:49:43.799132",
+            "_id": "nara--6750818",
+            "sourceResource": {
+                "title": "[Assignment: NOAA_2003_3137_71] National Oceanic and Atmospheric Administration - NEWS CONFERENCE WITH ASSISTANT SECRETARY JAMES MAHONEY [40_CFD_NOAA_2003_3137_71_DSC_0255.JPG]",
+                "rights": "Restrictions: Unrestricted; Use status: Unrestricted",
+                "format": [
+                    "Magnetic Disk: Hard Drive",
+                    "Magnetic Disk"
+                ],
+                "collection": {
+                    "id": "f88d724c58b0cedf575220f46dde777c",
+                    "title": "General Records of the Department of Commerce, 1898 - 2000",
+                    "@id": "http://dp.la/api/collections/f88d724c58b0cedf575220f46dde777c"
+                },
+                "stateLocatedIn": {
+                    "name": "MD"
+                },
+                "isPartOf": "File Unit: [Assignment: NOAA_2003_3137_71] National Oceanic and Atmospheric Administration - NEWS CONFERENCE WITH ASSISTANT SECRETARY JAMES MAHONEY, 06/09/2003 - 06/09/2003; Series: Digital Photographs Relating to Agency Officials, Events and Activities, 2001 - 2005",
+                "date": {
+                    "displayDate": "06/09/2003",
+                    "end": "2003-06-09",
+                    "begin": "2003-06-09"
+                },
+                "type": "image",
+                "creator": "Department of Commerce. Office of the Secretary.\t(1913 -)"
+            },
+            "ingestType": "item",
+            "@id": "http://dp.la/api/items/3c1b7f4eeed378d07469e1ed4740ddfe",
+            "originalRecord": {
+                "use-restriction": {
+                    "use-status": "Unrestricted",
+                    "specific-use-restrictions": null
+                },
+                "created-timestamp": "1/20/2013 9:46:20",
+                "access-restriction": {
+                    "restriction-status": "Unrestricted",
+                    "specific-access-restrictions": null
+                },
+                "indexable-dates": {
+                    "date-range": "[g_x64_31, g_x32_62, g_x16_125, g_x4_501, g_x4_500, g_x2_1000, b_x2_1002, b_x2_1001, g_x8_250, g_x128_15, b_x1_2001]"
+                },
+                "title-date": "06/09/2003",
+                "general-records-types": {
+                    "general-records-type": {
+                        "general-records-type-desc": "Photographs and other Graphic Materials",
+                        "general-records-type-id": "4237050",
+                        "num": "1"
+                    }
+                },
+                "parent": {
+                    "parent-id": "6750806",
+                    "parent-title": "[Assignment: NOAA_2003_3137_71] National Oceanic and Atmospheric Administration - NEWS CONFERENCE WITH ASSISTANT SECRETARY JAMES MAHONEY, 06/09/2003 - 06/09/2003",
+                    "parent-lod": "File Unit"
+                },
+                "arc-id-desc": "6750818",
+                "physical-occurrences": {
+                    "physical-occurrence": [
+                        {
+                            "reference-units": {
+                                "reference-unit": {
+                                    "summary": "true",
+                                    "num": "1",
+                                    "phone": "301-837-0561",
+                                    "fax": "301-837-3621",
+                                    "email": "stillpixorder@nara.gov",
+                                    "mailcode": "RD-DC-S",
+                                    "name": "National Archives at College Park - Still Pictures",
+                                    "state": "MD",
+                                    "address1": "National Archives at College Park",
+                                    "address2": "8601 Adelphi Road",
+                                    "ref-id": "31",
+                                    "postcode": "20740-6001",
+                                    "city": "College Park"
+                                }
+                            },
+                            "copy-status": "Reproduction-Reference",
+                            "media-occurrences": {
+                                "media-occurrence": {
+                                    "num": "1",
+                                    "media-type": "Magnetic Disk: Hard Drive"
+                                }
+                            }
+                        },
+                        {
+                            "reference-units": {
+                                "reference-unit": {
+                                    "num": "1",
+                                    "phone": "301-837-0561",
+                                    "fax": "301-837-3621",
+                                    "email": "stillpixorder@nara.gov",
+                                    "mailcode": "RD-DC-S",
+                                    "name": "National Archives at College Park - Still Pictures",
+                                    "state": "MD",
+                                    "address1": "National Archives at College Park",
+                                    "address2": "8601 Adelphi Road",
+                                    "ref-id": "31",
+                                    "postcode": "20740-6001",
+                                    "city": "College Park"
+                                }
+                            },
+                            "copy-status": "Preservation",
+                            "media-occurrences": {
+                                "media-occurrence": {
+                                    "num": "1",
+                                    "media-type": "Magnetic Disk"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "creators": {
+                    "creator": {
+                        "summary": "true",
+                        "creator-record-type": "ORG",
+                        "creator-display": "Department of Commerce. Office of the Secretary.\t(1913 - )",
+                        "num": "1",
+                        "standard": "Y",
+                        "creator-id": "1146070",
+                        "creator-type": "Most Recent"
+                    }
+                },
+                "title-only": "[Assignment: NOAA_2003_3137_71] National Oceanic and Atmospheric Administration - NEWS CONFERENCE WITH ASSISTANT SECRETARY JAMES MAHONEY [40_CFD_NOAA_2003_3137_71_DSC_0255.JPG]",
+                "title": "[Assignment: NOAA_2003_3137_71] National Oceanic and Atmospheric Administration - NEWS CONFERENCE WITH ASSISTANT SECRETARY JAMES MAHONEY [40_CFD_NOAA_2003_3137_71_DSC_0255.JPG]",
+                "production-dates": {
+                    "production-date": "06/09/2003"
+                },
+                "_id": "6750818",
+                "arc-id": "6750818",
+                "level-of-desc": {
+                    "lod-display": "Item",
+                    "level-id": "NAVI"
+                },
+                "parent-control-group": {
+                    "parent-control-lod": "Record Group",
+                    "parent-control-id": "40",
+                    "parent-control-title": "General Records of the Department of Commerce, 1898 - 2000"
+                },
+                "edited-timestamp": "[g_x8_1943, b_x1_15545, g_x16_971, g_x4_3886, g_x64_242, g_x32_485, g_x128_121, g_x2_7772]",
+                "hierarchy": {
+                    "hierarchy-item": [
+                        {
+                            "hierarchy-item-id": "6750806",
+                            "hierarchy-item-lod": "File Unit",
+                            "hierarchy-item-title": "[Assignment: NOAA_2003_3137_71] National Oceanic and Atmospheric Administration - NEWS CONFERENCE WITH ASSISTANT SECRETARY JAMES MAHONEY, 06/09/2003 - 06/09/2003"
+                        },
+                        {
+                            "hierarchy-item-id": "5950225",
+                            "hierarchy-item-inclusive-dates": "2001 - 2005",
+                            "hierarchy-item-lod": "Series",
+                            "hierarchy-item-title": "Digital Photographs Relating to Agency Officials, Events and Activities, 2001 - 2005"
+                        },
+                        {
+                            "hierarchy-item-id": "369",
+                            "hierarchy-item-record-group-number": "40",
+                            "hierarchy-item-lod": "Record Group",
+                            "hierarchy-item-title": "General Records of the Department of Commerce, 1898 - 2000"
+                        }
+                    ]
+                },
+                "objects": {
+                    "object": {
+                        "thumbnail-url": "http://media.nara.gov/stillpix/040-cfd/NOAA_2003_3137_71/40_CFD_NOAA_2003_3137_71_DSC_0255_t.JPG",
+                        "num": "1",
+                        "object-sequence-number": "1",
+                        "mime-type": "image/jpeg",
+                        "file-size": "2553576",
+                        "file-url": "http://media.nara.gov/stillpix/040-cfd/NOAA_2003_3137_71/40_CFD_NOAA_2003_3137_71_DSC_0255.JPG"
+                    }
+                }
+            },
+            "score": 1
+        },
+        {
+            "@context": {
+                "edm": "http://www.europeana.eu/schemas/edm/",
+                "isShownAt": "edm:isShownAt",
+                "dpla": "http://dp.la/terms/",
+                "dataProvider": "edm:dataProvider",
+                "aggregatedDigitalResource": "dpla:aggregatedDigitalResource",
+                "state": "dpla:state",
+                "hasView": "edm:hasView",
+                "provider": "edm:provider",
+                "collection": "dpla:aggregation",
+                "object": "edm:object",
+                "stateLocatedIn": "dpla:stateLocatedIn",
+                "begin": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:dateRangeStart"
+                },
+                "@vocab": "http://purl.org/dc/terms/",
+                "LCSH": "http://id.loc.gov/authorities/subjects",
+                "sourceResource": "edm:sourceResource",
+                "name": "xsd:string",
+                "coordinates": "dpla:coordinates",
+                "end": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:end"
+                },
+                "originalRecord": "dpla:originalRecord"
+            },
+            "isShownAt": "http://research.archives.gov/description/6763128",
+            "dataProvider": "National Archives at College Park - Still Pictures",
+            "hasView": [
+                {
+                    "format": "image/jpeg",
+                    "url": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_101/40_CFD_OS_2003_1201_101_484.JPG"
+                }
+            ],
+            "provider": {
+                "@id": "http://dp.la/api/contributor/nara",
+                "name": "National Archives and Records Administration"
+            },
+            "object": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_101/40_CFD_OS_2003_1201_101_484_t.JPG",
+            "id": "815df9c5999735cb937017853d8a08a0",
+            "_rev": "1-0c2f4203f592f19941138c127b4da6e3",
+            "ingestDate": "2013-04-12T00:59:32.839619",
+            "_id": "nara--6763128",
+            "sourceResource": {
+                "title": "[Assignment: OS_2003_1201_101] Office of the Secretary - WHITE HOUSE DIGITAL FREEDOM [40_CFD_OS_2003_1201_101_484.JPG]",
+                "rights": "Restrictions: Unrestricted; Use status: Unrestricted",
+                "format": [
+                    "Magnetic Disk: Hard Drive",
+                    "Magnetic Disk"
+                ],
+                "collection": {
+                    "id": "f88d724c58b0cedf575220f46dde777c",
+                    "title": "General Records of the Department of Commerce, 1898 - 2000",
+                    "@id": "http://dp.la/api/collections/f88d724c58b0cedf575220f46dde777c"
+                },
+                "stateLocatedIn": {
+                    "name": "MD"
+                },
+                "isPartOf": "File Unit: [Assignment: OS_2003_1201_101] Office of the Secretary - WHITE HOUSE DIGITAL FREEDOM, 03/04/2005 - 03/04/2005; Series: Digital Photographs Relating to Agency Officials, Events and Activities, 2001 - 2005",
+                "date": {
+                    "displayDate": "03/04/2005",
+                    "end": "2005-03-04",
+                    "begin": "2005-03-04"
+                },
+                "type": "image",
+                "creator": "Department of Commerce. Office of the Secretary.\t(1913 -)"
+            },
+            "ingestType": "item",
+            "@id": "http://dp.la/api/items/815df9c5999735cb937017853d8a08a0",
+            "originalRecord": {
+                "use-restriction": {
+                    "use-status": "Unrestricted",
+                    "specific-use-restrictions": null
+                },
+                "created-timestamp": "1/20/2013 1:6:45",
+                "access-restriction": {
+                    "restriction-status": "Unrestricted",
+                    "specific-access-restrictions": null
+                },
+                "indexable-dates": {
+                    "date-range": "[g_x64_31, g_x32_62, g_x16_125, g_x4_501, g_x4_500, g_x2_1000, b_x2_1002, b_x2_1001, g_x8_250, g_x128_15, b_x1_2001]"
+                },
+                "title-date": "03/04/2005",
+                "general-records-types": {
+                    "general-records-type": {
+                        "general-records-type-desc": "Photographs and other Graphic Materials",
+                        "general-records-type-id": "4237050",
+                        "num": "1"
+                    }
+                },
+                "parent": {
+                    "parent-id": "6763086",
+                    "parent-title": "[Assignment: OS_2003_1201_101] Office of the Secretary - WHITE HOUSE DIGITAL FREEDOM, 03/04/2005 - 03/04/2005",
+                    "parent-lod": "File Unit"
+                },
+                "arc-id-desc": "6763128",
+                "physical-occurrences": {
+                    "physical-occurrence": [
+                        {
+                            "reference-units": {
+                                "reference-unit": {
+                                    "summary": "true",
+                                    "num": "1",
+                                    "phone": "301-837-0561",
+                                    "fax": "301-837-3621",
+                                    "email": "stillpixorder@nara.gov",
+                                    "mailcode": "RD-DC-S",
+                                    "name": "National Archives at College Park - Still Pictures",
+                                    "state": "MD",
+                                    "address1": "National Archives at College Park",
+                                    "address2": "8601 Adelphi Road",
+                                    "ref-id": "31",
+                                    "postcode": "20740-6001",
+                                    "city": "College Park"
+                                }
+                            },
+                            "copy-status": "Reproduction-Reference",
+                            "media-occurrences": {
+                                "media-occurrence": {
+                                    "num": "1",
+                                    "media-type": "Magnetic Disk: Hard Drive"
+                                }
+                            }
+                        },
+                        {
+                            "reference-units": {
+                                "reference-unit": {
+                                    "num": "1",
+                                    "phone": "301-837-0561",
+                                    "fax": "301-837-3621",
+                                    "email": "stillpixorder@nara.gov",
+                                    "mailcode": "RD-DC-S",
+                                    "name": "National Archives at College Park - Still Pictures",
+                                    "state": "MD",
+                                    "address1": "National Archives at College Park",
+                                    "address2": "8601 Adelphi Road",
+                                    "ref-id": "31",
+                                    "postcode": "20740-6001",
+                                    "city": "College Park"
+                                }
+                            },
+                            "copy-status": "Preservation",
+                            "media-occurrences": {
+                                "media-occurrence": {
+                                    "num": "1",
+                                    "media-type": "Magnetic Disk"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "creators": {
+                    "creator": {
+                        "summary": "true",
+                        "creator-record-type": "ORG",
+                        "creator-display": "Department of Commerce. Office of the Secretary.\t(1913 - )",
+                        "num": "1",
+                        "standard": "Y",
+                        "creator-id": "1146070",
+                        "creator-type": "Most Recent"
+                    }
+                },
+                "title-only": "[Assignment: OS_2003_1201_101] Office of the Secretary - WHITE HOUSE DIGITAL FREEDOM [40_CFD_OS_2003_1201_101_484.JPG]",
+                "title": "[Assignment: OS_2003_1201_101] Office of the Secretary - WHITE HOUSE DIGITAL FREEDOM [40_CFD_OS_2003_1201_101_484.JPG]",
+                "production-dates": {
+                    "production-date": "03/04/2005"
+                },
+                "_id": "6763128",
+                "arc-id": "6763128",
+                "level-of-desc": {
+                    "lod-display": "Item",
+                    "level-id": "NAVI"
+                },
+                "parent-control-group": {
+                    "parent-control-lod": "Record Group",
+                    "parent-control-id": "40",
+                    "parent-control-title": "General Records of the Department of Commerce, 1898 - 2000"
+                },
+                "edited-timestamp": "[g_x8_1943, g_x16_971, g_x4_3886, b_x1_15546, g_x64_242, g_x32_485, g_x2_7773, g_x128_121]",
+                "hierarchy": {
+                    "hierarchy-item": [
+                        {
+                            "hierarchy-item-id": "6763086",
+                            "hierarchy-item-lod": "File Unit",
+                            "hierarchy-item-title": "[Assignment: OS_2003_1201_101] Office of the Secretary - WHITE HOUSE DIGITAL FREEDOM, 03/04/2005 - 03/04/2005"
+                        },
+                        {
+                            "hierarchy-item-id": "5950225",
+                            "hierarchy-item-inclusive-dates": "2001 - 2005",
+                            "hierarchy-item-lod": "Series",
+                            "hierarchy-item-title": "Digital Photographs Relating to Agency Officials, Events and Activities, 2001 - 2005"
+                        },
+                        {
+                            "hierarchy-item-id": "369",
+                            "hierarchy-item-record-group-number": "40",
+                            "hierarchy-item-lod": "Record Group",
+                            "hierarchy-item-title": "General Records of the Department of Commerce, 1898 - 2000"
+                        }
+                    ]
+                },
+                "objects": {
+                    "object": {
+                        "thumbnail-url": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_101/40_CFD_OS_2003_1201_101_484_t.JPG",
+                        "num": "1",
+                        "object-sequence-number": "1",
+                        "mime-type": "image/jpeg",
+                        "file-size": "2360296",
+                        "file-url": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_101/40_CFD_OS_2003_1201_101_484.JPG"
+                    }
+                }
+            },
+            "score": 1
+        },
+        {
+            "@context": {
+                "edm": "http://www.europeana.eu/schemas/edm/",
+                "isShownAt": "edm:isShownAt",
+                "dpla": "http://dp.la/terms/",
+                "dataProvider": "edm:dataProvider",
+                "aggregatedDigitalResource": "dpla:aggregatedDigitalResource",
+                "state": "dpla:state",
+                "hasView": "edm:hasView",
+                "provider": "edm:provider",
+                "collection": "dpla:aggregation",
+                "object": "edm:object",
+                "stateLocatedIn": "dpla:stateLocatedIn",
+                "begin": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:dateRangeStart"
+                },
+                "@vocab": "http://purl.org/dc/terms/",
+                "LCSH": "http://id.loc.gov/authorities/subjects",
+                "sourceResource": "edm:sourceResource",
+                "name": "xsd:string",
+                "coordinates": "dpla:coordinates",
+                "end": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:end"
+                },
+                "originalRecord": "dpla:originalRecord"
+            },
+            "isShownAt": "http://research.archives.gov/description/6763508",
+            "dataProvider": "National Archives at College Park - Still Pictures",
+            "hasView": [
+                {
+                    "format": "image/jpeg",
+                    "url": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_119/40_CFD_OS_2003_1201_119_123.jpg"
+                }
+            ],
+            "provider": {
+                "@id": "http://dp.la/api/contributor/nara",
+                "name": "National Archives and Records Administration"
+            },
+            "object": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_119/40_CFD_OS_2003_1201_119_123_t.jpg",
+            "id": "94d57c5362d2a349c311e0f054ad7587",
+            "_rev": "1-37d9b09f13303e22f4525f29f2c42a3e",
+            "ingestDate": "2013-04-12T01:00:16.939102",
+            "_id": "nara--6763508",
+            "sourceResource": {
+                "title": "[Assignment: OS_2003_1201_119] Office of the Secretary - SECRETARY DONALD EVANS WHITE HOUSE PHOTOS [40_CFD_OS_2003_1201_119_123.jpg]",
+                "rights": "Restrictions: Unrestricted; Use status: Unrestricted",
+                "format": [
+                    "Magnetic Disk: Hard Drive",
+                    "Magnetic Disk"
+                ],
+                "collection": {
+                    "id": "f88d724c58b0cedf575220f46dde777c",
+                    "title": "General Records of the Department of Commerce, 1898 - 2000",
+                    "@id": "http://dp.la/api/collections/f88d724c58b0cedf575220f46dde777c"
+                },
+                "stateLocatedIn": {
+                    "name": "MD"
+                },
+                "isPartOf": "File Unit: [Assignment: OS_2003_1201_119] Office of the Secretary - SECRETARY DONALD EVANS WHITE HOUSE PHOTOS, 03/18/2003 - 03/18/2003; Series: Digital Photographs Relating to Agency Officials, Events and Activities, 2001 - 2005",
+                "date": {
+                    "displayDate": "03/18/2003",
+                    "end": "2003-03-18",
+                    "begin": "2003-03-18"
+                },
+                "type": "image",
+                "creator": "Department of Commerce. Office of the Secretary.\t(1913 -)"
+            },
+            "ingestType": "item",
+            "@id": "http://dp.la/api/items/94d57c5362d2a349c311e0f054ad7587",
+            "originalRecord": {
+                "use-restriction": {
+                    "use-status": "Unrestricted",
+                    "specific-use-restrictions": null
+                },
+                "created-timestamp": "1/20/2013 6:56:39",
+                "access-restriction": {
+                    "restriction-status": "Unrestricted",
+                    "specific-access-restrictions": null
+                },
+                "indexable-dates": {
+                    "date-range": "[g_x64_31, g_x32_62, g_x16_125, g_x4_501, g_x4_500, g_x2_1000, b_x2_1002, b_x2_1001, g_x8_250, g_x128_15, b_x1_2001]"
+                },
+                "title-date": "03/18/2003",
+                "general-records-types": {
+                    "general-records-type": {
+                        "general-records-type-desc": "Photographs and other Graphic Materials",
+                        "general-records-type-id": "4237050",
+                        "num": "1"
+                    }
+                },
+                "parent": {
+                    "parent-id": "6763462",
+                    "parent-title": "[Assignment: OS_2003_1201_119] Office of the Secretary - SECRETARY DONALD EVANS WHITE HOUSE PHOTOS, 03/18/2003 - 03/18/2003",
+                    "parent-lod": "File Unit"
+                },
+                "arc-id-desc": "6763508",
+                "physical-occurrences": {
+                    "physical-occurrence": [
+                        {
+                            "reference-units": {
+                                "reference-unit": {
+                                    "summary": "true",
+                                    "num": "1",
+                                    "phone": "301-837-0561",
+                                    "fax": "301-837-3621",
+                                    "email": "stillpixorder@nara.gov",
+                                    "mailcode": "RD-DC-S",
+                                    "name": "National Archives at College Park - Still Pictures",
+                                    "state": "MD",
+                                    "address1": "National Archives at College Park",
+                                    "address2": "8601 Adelphi Road",
+                                    "ref-id": "31",
+                                    "postcode": "20740-6001",
+                                    "city": "College Park"
+                                }
+                            },
+                            "copy-status": "Reproduction-Reference",
+                            "media-occurrences": {
+                                "media-occurrence": {
+                                    "num": "1",
+                                    "media-type": "Magnetic Disk: Hard Drive"
+                                }
+                            }
+                        },
+                        {
+                            "reference-units": {
+                                "reference-unit": {
+                                    "num": "1",
+                                    "phone": "301-837-0561",
+                                    "fax": "301-837-3621",
+                                    "email": "stillpixorder@nara.gov",
+                                    "mailcode": "RD-DC-S",
+                                    "name": "National Archives at College Park - Still Pictures",
+                                    "state": "MD",
+                                    "address1": "National Archives at College Park",
+                                    "address2": "8601 Adelphi Road",
+                                    "ref-id": "31",
+                                    "postcode": "20740-6001",
+                                    "city": "College Park"
+                                }
+                            },
+                            "copy-status": "Preservation",
+                            "media-occurrences": {
+                                "media-occurrence": {
+                                    "num": "1",
+                                    "media-type": "Magnetic Disk"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "creators": {
+                    "creator": {
+                        "summary": "true",
+                        "creator-record-type": "ORG",
+                        "creator-display": "Department of Commerce. Office of the Secretary.\t(1913 - )",
+                        "num": "1",
+                        "standard": "Y",
+                        "creator-id": "1146070",
+                        "creator-type": "Most Recent"
+                    }
+                },
+                "title-only": "[Assignment: OS_2003_1201_119] Office of the Secretary - SECRETARY DONALD EVANS WHITE HOUSE PHOTOS [40_CFD_OS_2003_1201_119_123.jpg]",
+                "title": "[Assignment: OS_2003_1201_119] Office of the Secretary - SECRETARY DONALD EVANS WHITE HOUSE PHOTOS [40_CFD_OS_2003_1201_119_123.jpg]",
+                "production-dates": {
+                    "production-date": "03/18/2003"
+                },
+                "_id": "6763508",
+                "arc-id": "6763508",
+                "level-of-desc": {
+                    "lod-display": "Item",
+                    "level-id": "NAVI"
+                },
+                "parent-control-group": {
+                    "parent-control-lod": "Record Group",
+                    "parent-control-id": "40",
+                    "parent-control-title": "General Records of the Department of Commerce, 1898 - 2000"
+                },
+                "edited-timestamp": "[g_x8_1943, g_x16_971, g_x4_3886, b_x1_15546, g_x64_242, g_x32_485, g_x2_7773, g_x128_121]",
+                "hierarchy": {
+                    "hierarchy-item": [
+                        {
+                            "hierarchy-item-id": "6763462",
+                            "hierarchy-item-lod": "File Unit",
+                            "hierarchy-item-title": "[Assignment: OS_2003_1201_119] Office of the Secretary - SECRETARY DONALD EVANS WHITE HOUSE PHOTOS, 03/18/2003 - 03/18/2003"
+                        },
+                        {
+                            "hierarchy-item-id": "5950225",
+                            "hierarchy-item-inclusive-dates": "2001 - 2005",
+                            "hierarchy-item-lod": "Series",
+                            "hierarchy-item-title": "Digital Photographs Relating to Agency Officials, Events and Activities, 2001 - 2005"
+                        },
+                        {
+                            "hierarchy-item-id": "369",
+                            "hierarchy-item-record-group-number": "40",
+                            "hierarchy-item-lod": "Record Group",
+                            "hierarchy-item-title": "General Records of the Department of Commerce, 1898 - 2000"
+                        }
+                    ]
+                },
+                "objects": {
+                    "object": {
+                        "thumbnail-url": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_119/40_CFD_OS_2003_1201_119_123_t.jpg",
+                        "num": "1",
+                        "object-sequence-number": "1",
+                        "mime-type": "image/jpeg",
+                        "file-size": "1622879",
+                        "file-url": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_119/40_CFD_OS_2003_1201_119_123.jpg"
+                    }
+                }
+            },
+            "score": 1
+        },
+        {
+            "@context": {
+                "edm": "http://www.europeana.eu/schemas/edm/",
+                "isShownAt": "edm:isShownAt",
+                "dpla": "http://dp.la/terms/",
+                "dataProvider": "edm:dataProvider",
+                "aggregatedDigitalResource": "dpla:aggregatedDigitalResource",
+                "state": "dpla:state",
+                "hasView": "edm:hasView",
+                "provider": "edm:provider",
+                "collection": "dpla:aggregation",
+                "object": "edm:object",
+                "stateLocatedIn": "dpla:stateLocatedIn",
+                "begin": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:dateRangeStart"
+                },
+                "@vocab": "http://purl.org/dc/terms/",
+                "LCSH": "http://id.loc.gov/authorities/subjects",
+                "sourceResource": "edm:sourceResource",
+                "name": "xsd:string",
+                "coordinates": "dpla:coordinates",
+                "end": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:dateRangeEnd"
+                },
+                "originalRecord": "dpla:originalRecord"
+            },
+            "isShownAt": "http://dlg.galileo.usg.edu/funeral/id:gray19930906",
+            "dataProvider": "East Central Georgia Regional Library (Augusta, Ga.)",
+            "provider": {
+                "@id": "http://dp.la/api/contributor/georgia",
+                "name": "Digital Library of Georgia"
+            },
+            "object": "http://dlg.galileo.usg.edu/dlg/fpro/do-th:gray19930906",
+            "id": "e11171b14aa7a1ef3ab3a3c012dd3605",
+            "_rev": "1-b68afb5d68c5f040f1ec725968161372",
+            "ingestDate": "2013-04-12T01:00:23.952845",
+            "_id": "georgia--http://dlg.galileo.usg.edu/funeral/id:gray19930906",
+            "admin": {
+                "object_status": 1
+            },
+            "sourceResource": {
+                "title": "Homegoing services for Mr. Thomas Gray, Sr., Monday, September 6, 1993, 2:00 p.m., Chapel - Sidney A. Jones, Bishop Luther Anderson, officiating",
+                "spatial": [
+                    {
+                        "name": "Savannah (Ga.)"
+                    },
+                    {
+                        "name": "Chatham County (Ga.)"
+                    }
+                ],
+                "description": [
+                    "Program for the September 6, 1993 funeral of Thomas Gray.",
+                    "Original program scanned by OCLC for the East Central Georgia Regional Library and described and presented by the Digital Library of Georgia as a part of Georgia HomePLACE: an initiative of the Georgia Public Library Service and GALILEO.",
+                    "Eula M. Ramsey Johnson Memorial Funeral Program Collection, East Central Georgia Regional Library, Augusta, Georgia"
+                ],
+                "subject": [
+                    {
+                        "name": "African American men--Georgia--Savannah--History--20th century"
+                    },
+                    {
+                        "name": "African Americans--Funeral customs and rites--Georgia--Savannah--History--20th century"
+                    },
+                    {
+                        "name": "Funeral rites and ceremonies--Georgia--Savannah--History--20th century"
+                    },
+                    {
+                        "name": "Funeral service--Georgia--Savannah--History--20th century"
+                    },
+                    {
+                        "name": "Mourning customs--Georgia--Savannah--History--20th century"
+                    },
+                    {
+                        "name": "African Americans--Georgia--Savannah--Genealogy"
+                    },
+                    {
+                        "name": "Gray, Thomas, 1946-1993--Death and burial"
+                    },
+                    {
+                        "name": "Sidney A Jones Funeral Home (Savannah, Ga.)--History--20th century"
+                    }
+                ],
+                "rights": "Cite as: [title of program], Eula M. Ramsey Johnson Memorial Funeral Program Collection, East Central Georgia Regional Library System, as presented in the Digital Library of Georgia.",
+                "relation": "Forms part of: African American Funeral Programs from the East Central Georgia Regional Library System",
+                "format": [
+                    "Church records",
+                    "Programs (documents)"
+                ],
+                "collection": [
+                    {
+                        "id": "34730740357b3d34b27796658b5eb1a5",
+                        "title": "African American funeral programs from the East Central Georgia Regional Library System",
+                        "description": "Over 1000 funeral programs of African Americans dating from 1933 to 2008 (with the bulk of the collection beginning in the 1960s), the majority of which are from services held in the Augusta, Georgia area",
+                        "@id": "http://dp.la/api/collections/34730740357b3d34b27796658b5eb1a5"
+                    },
+                    {
+                        "id": "b8fd6d64d9797521b4bf674a40b26dea",
+                        "title": "African American funeral programs from the East Central Georgia Regional Library System",
+                        "description": "Over 1000 funeral programs of African Americans dating from 1933 to 2008 (with the bulk of the collection beginning in the 1960s), the majority of which are from services held in the Augusta, Georgia area",
+                        "@id": "http://dp.la/api/collections/b8fd6d64d9797521b4bf674a40b26dea"
+                    },
+                    {
+                        "id": "a72045095d4a687a170a4f300d8e0637",
+                        "title": "DPLA: Include in Digital Public Library of America",
+                        "description": "DPLA: Include in Digital Public Library of America",
+                        "@id": "http://dp.la/api/collections/a72045095d4a687a170a4f300d8e0637"
+                    }
+                ],
+                "stateLocatedIn": [
+                    {
+                        "name": "Athens, Ga.] : Digital Library of Georgia"
+                    }
+                ],
+                "date": {
+                    "displayDate": "1993-09-06",
+                    "end": "1993-09-06",
+                    "begin": "1993-09-06"
+                },
+                "type": "text"
+            },
+            "ingestType": "item",
+            "@id": "http://dp.la/api/items/e11171b14aa7a1ef3ab3a3c012dd3605",
+            "originalRecord": {
+                "handle": "http://dlg.galileo.usg.edu/funeral/id:gray19930906",
+                "setSpec": [
+                    "meta:gaec:fpro",
+                    "meta:dlg:fpro",
+                    "dpla"
+                ],
+                "subject": [
+                    "African American men--Georgia--Savannah--History--20th century",
+                    "African Americans--Funeral customs and rites--Georgia--Savannah--History--20th century",
+                    "Funeral rites and ceremonies--Georgia--Savannah--History--20th century",
+                    "Funeral service--Georgia--Savannah--History--20th century",
+                    "Mourning customs--Georgia--Savannah--History--20th century",
+                    "African Americans--Georgia--Savannah--Genealogy",
+                    "Gray, Thomas, 1946-1993--Death and burial",
+                    "Sidney A Jones Funeral Home (Savannah, Ga.)--History--20th century"
+                ],
+                "relation": "Forms part of: African American Funeral Programs from the East Central Georgia Regional Library System.",
+                "rights": "Cite as: [title of program], Eula M. Ramsey Johnson Memorial Funeral Program Collection, East Central Georgia Regional Library System, as presented in the Digital Library of Georgia.",
+                "label": "Homegoing services for Mr. Thomas Gray, Sr., Monday, September 6, 1993, 2:00 p.m., Chapel - Sidney A. Jones, Bishop Luther Anderson, officiating",
+                "format": [
+                    "application/pdf",
+                    "image/jpeg"
+                ],
+                "date": "2009",
+                "type": [
+                    "Church records",
+                    "Programs (documents)",
+                    "Text"
+                ],
+                "publisher": "[Athens, Ga.] : Digital Library of Georgia",
+                "id": "oai:dlg.galileo.usg.edu:dlg_fpro_gray19930906",
+                "title": "Homegoing services for Mr. Thomas Gray, Sr., Monday, September 6, 1993, 2:00 p.m., Chapel - Sidney A. Jones, Bishop Luther Anderson, officiating",
+                "source": "Eula M. Ramsey Johnson Memorial Funeral Program Collection, East Central Georgia Regional Library, Augusta, Georgia",
+                "coverage": [
+                    "Savannah (Ga.)",
+                    "Chatham County (Ga.)",
+                    "1993-09-06"
+                ],
+                "contributor": "East Central Georgia Regional Library (Augusta, Ga.)",
+                "description": [
+                    "Program for the September 6, 1993 funeral of Thomas Gray.",
+                    "Original program scanned by OCLC for the East Central Georgia Regional Library and described and presented by the Digital Library of Georgia as a part of Georgia HomePLACE: an initiative of the Georgia Public Library Service and GALILEO."
+                ],
+                "datestamp": "2013-02-27"
+            },
+            "score": 1
+        },
+        {
+            "@context": {
+                "edm": "http://www.europeana.eu/schemas/edm/",
+                "isShownAt": "edm:isShownAt",
+                "dpla": "http://dp.la/terms/",
+                "dataProvider": "edm:dataProvider",
+                "aggregatedDigitalResource": "dpla:aggregatedDigitalResource",
+                "state": "dpla:state",
+                "hasView": "edm:hasView",
+                "provider": "edm:provider",
+                "collection": "dpla:aggregation",
+                "object": "edm:object",
+                "stateLocatedIn": "dpla:stateLocatedIn",
+                "begin": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:dateRangeStart"
+                },
+                "@vocab": "http://purl.org/dc/terms/",
+                "LCSH": "http://id.loc.gov/authorities/subjects",
+                "sourceResource": "edm:sourceResource",
+                "name": "xsd:string",
+                "coordinates": "dpla:coordinates",
+                "end": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:end"
+                },
+                "originalRecord": "dpla:originalRecord"
+            },
+            "isShownAt": "http://research.archives.gov/description/6763838",
+            "dataProvider": "National Archives at College Park - Still Pictures",
+            "hasView": [
+                {
+                    "format": "image/jpeg",
+                    "url": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_142/40_CFD_OS_2003_1201_142_825.JPG"
+                }
+            ],
+            "provider": {
+                "@id": "http://dp.la/api/contributor/nara",
+                "name": "National Archives and Records Administration"
+            },
+            "object": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_142/40_CFD_OS_2003_1201_142_825_t.JPG",
+            "id": "0b4c1f73f33cd2857bf0c78fba249ed2",
+            "_rev": "1-242c286a810ea6fa9ff948819110b2c0",
+            "ingestDate": "2013-04-12T00:59:35.755889",
+            "_id": "nara--6763838",
+            "sourceResource": {
+                "title": "[Assignment: OS_2003_1201_142] Office of the Secretary - SECRETARY DONALD EVANS WITH SECRETARY JOHN SNOW AT PRESS CONFERENCE [40_CFD_OS_2003_1201_142_825.JPG]",
+                "rights": "Restrictions: Unrestricted; Use status: Unrestricted",
+                "format": [
+                    "Magnetic Disk: Hard Drive",
+                    "Magnetic Disk"
+                ],
+                "collection": {
+                    "id": "f88d724c58b0cedf575220f46dde777c",
+                    "title": "General Records of the Department of Commerce, 1898 - 2000",
+                    "@id": "http://dp.la/api/collections/f88d724c58b0cedf575220f46dde777c"
+                },
+                "stateLocatedIn": {
+                    "name": "MD"
+                },
+                "isPartOf": "File Unit: [Assignment: OS_2003_1201_142] Office of the Secretary - SECRETARY DONALD EVANS WITH SECRETARY JOHN SNOW AT PRESS CONFERENCE, 05/01/2003 - 05/01/2003; Series: Digital Photographs Relating to Agency Officials, Events and Activities, 2001 - 2005",
+                "date": {
+                    "displayDate": "05/01/2003",
+                    "end": "2003-05-01",
+                    "begin": "2003-05-01"
+                },
+                "type": "image",
+                "creator": "Department of Commerce. Office of the Secretary.\t(1913 -)"
+            },
+            "ingestType": "item",
+            "@id": "http://dp.la/api/items/0b4c1f73f33cd2857bf0c78fba249ed2",
+            "originalRecord": {
+                "use-restriction": {
+                    "use-status": "Unrestricted",
+                    "specific-use-restrictions": null
+                },
+                "created-timestamp": "1/20/2013 9:48:35",
+                "access-restriction": {
+                    "restriction-status": "Unrestricted",
+                    "specific-access-restrictions": null
+                },
+                "indexable-dates": {
+                    "date-range": "[g_x64_31, g_x32_62, g_x16_125, g_x4_501, g_x4_500, g_x2_1000, b_x2_1002, b_x2_1001, g_x8_250, g_x128_15, b_x1_2001]"
+                },
+                "title-date": "05/01/2003",
+                "general-records-types": {
+                    "general-records-type": {
+                        "general-records-type-desc": "Photographs and other Graphic Materials",
+                        "general-records-type-id": "4237050",
+                        "num": "1"
+                    }
+                },
+                "parent": {
+                    "parent-id": "6763797",
+                    "parent-title": "[Assignment: OS_2003_1201_142] Office of the Secretary - SECRETARY DONALD EVANS WITH SECRETARY JOHN SNOW AT PRESS CONFERENCE, 05/01/2003 - 05/01/2003",
+                    "parent-lod": "File Unit"
+                },
+                "arc-id-desc": "6763838",
+                "physical-occurrences": {
+                    "physical-occurrence": [
+                        {
+                            "reference-units": {
+                                "reference-unit": {
+                                    "summary": "true",
+                                    "num": "1",
+                                    "phone": "301-837-0561",
+                                    "fax": "301-837-3621",
+                                    "email": "stillpixorder@nara.gov",
+                                    "mailcode": "RD-DC-S",
+                                    "name": "National Archives at College Park - Still Pictures",
+                                    "state": "MD",
+                                    "address1": "National Archives at College Park",
+                                    "address2": "8601 Adelphi Road",
+                                    "ref-id": "31",
+                                    "postcode": "20740-6001",
+                                    "city": "College Park"
+                                }
+                            },
+                            "copy-status": "Reproduction-Reference",
+                            "media-occurrences": {
+                                "media-occurrence": {
+                                    "num": "1",
+                                    "media-type": "Magnetic Disk: Hard Drive"
+                                }
+                            }
+                        },
+                        {
+                            "reference-units": {
+                                "reference-unit": {
+                                    "num": "1",
+                                    "phone": "301-837-0561",
+                                    "fax": "301-837-3621",
+                                    "email": "stillpixorder@nara.gov",
+                                    "mailcode": "RD-DC-S",
+                                    "name": "National Archives at College Park - Still Pictures",
+                                    "state": "MD",
+                                    "address1": "National Archives at College Park",
+                                    "address2": "8601 Adelphi Road",
+                                    "ref-id": "31",
+                                    "postcode": "20740-6001",
+                                    "city": "College Park"
+                                }
+                            },
+                            "copy-status": "Preservation",
+                            "media-occurrences": {
+                                "media-occurrence": {
+                                    "num": "1",
+                                    "media-type": "Magnetic Disk"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "creators": {
+                    "creator": {
+                        "summary": "true",
+                        "creator-record-type": "ORG",
+                        "creator-display": "Department of Commerce. Office of the Secretary.\t(1913 - )",
+                        "num": "1",
+                        "standard": "Y",
+                        "creator-id": "1146070",
+                        "creator-type": "Most Recent"
+                    }
+                },
+                "title-only": "[Assignment: OS_2003_1201_142] Office of the Secretary - SECRETARY DONALD EVANS WITH SECRETARY JOHN SNOW AT PRESS CONFERENCE [40_CFD_OS_2003_1201_142_825.JPG]",
+                "title": "[Assignment: OS_2003_1201_142] Office of the Secretary - SECRETARY DONALD EVANS WITH SECRETARY JOHN SNOW AT PRESS CONFERENCE [40_CFD_OS_2003_1201_142_825.JPG]",
+                "production-dates": {
+                    "production-date": "05/01/2003"
+                },
+                "_id": "6763838",
+                "arc-id": "6763838",
+                "level-of-desc": {
+                    "lod-display": "Item",
+                    "level-id": "NAVI"
+                },
+                "parent-control-group": {
+                    "parent-control-lod": "Record Group",
+                    "parent-control-id": "40",
+                    "parent-control-title": "General Records of the Department of Commerce, 1898 - 2000"
+                },
+                "edited-timestamp": "[g_x8_1943, g_x16_971, g_x4_3886, b_x1_15546, g_x64_242, g_x32_485, g_x2_7773, g_x128_121]",
+                "hierarchy": {
+                    "hierarchy-item": [
+                        {
+                            "hierarchy-item-id": "6763797",
+                            "hierarchy-item-lod": "File Unit",
+                            "hierarchy-item-title": "[Assignment: OS_2003_1201_142] Office of the Secretary - SECRETARY DONALD EVANS WITH SECRETARY JOHN SNOW AT PRESS CONFERENCE, 05/01/2003 - 05/01/2003"
+                        },
+                        {
+                            "hierarchy-item-id": "5950225",
+                            "hierarchy-item-inclusive-dates": "2001 - 2005",
+                            "hierarchy-item-lod": "Series",
+                            "hierarchy-item-title": "Digital Photographs Relating to Agency Officials, Events and Activities, 2001 - 2005"
+                        },
+                        {
+                            "hierarchy-item-id": "369",
+                            "hierarchy-item-record-group-number": "40",
+                            "hierarchy-item-lod": "Record Group",
+                            "hierarchy-item-title": "General Records of the Department of Commerce, 1898 - 2000"
+                        }
+                    ]
+                },
+                "objects": {
+                    "object": {
+                        "thumbnail-url": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_142/40_CFD_OS_2003_1201_142_825_t.JPG",
+                        "num": "1",
+                        "object-sequence-number": "1",
+                        "mime-type": "image/jpeg",
+                        "file-size": "2745657",
+                        "file-url": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_142/40_CFD_OS_2003_1201_142_825.JPG"
+                    }
+                }
+            },
+            "score": 1
+        },
+        {
+            "@context": {
+                "edm": "http://www.europeana.eu/schemas/edm/",
+                "isShownAt": "edm:isShownAt",
+                "dpla": "http://dp.la/terms/",
+                "dataProvider": "edm:dataProvider",
+                "aggregatedDigitalResource": "dpla:aggregatedDigitalResource",
+                "state": "dpla:state",
+                "hasView": "edm:hasView",
+                "provider": "edm:provider",
+                "collection": "dpla:aggregation",
+                "object": "edm:object",
+                "stateLocatedIn": "dpla:stateLocatedIn",
+                "begin": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:dateRangeStart"
+                },
+                "@vocab": "http://purl.org/dc/terms/",
+                "LCSH": "http://id.loc.gov/authorities/subjects",
+                "sourceResource": "edm:sourceResource",
+                "name": "xsd:string",
+                "coordinates": "dpla:coordinates",
+                "end": {
+                    "@type": "xsd:date",
+                    "@id": "dpla:end"
+                },
+                "originalRecord": "dpla:originalRecord"
+            },
+            "isShownAt": "http://research.archives.gov/description/6764538",
+            "dataProvider": "National Archives at College Park - Still Pictures",
+            "hasView": [
+                {
+                    "format": "image/jpeg",
+                    "url": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_169/40_CFD_OS_2003_1201_169_138.JPG"
+                }
+            ],
+            "provider": {
+                "@id": "http://dp.la/api/contributor/nara",
+                "name": "National Archives and Records Administration"
+            },
+            "object": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_169/40_CFD_OS_2003_1201_169_138_t.JPG",
+            "id": "cd7d670743d8f469daa6e4710d0d2d10",
+            "_rev": "1-7fee1ec8fd677425fc6b6413bebab163",
+            "ingestDate": "2013-04-12T01:01:12.980718",
+            "_id": "nara--6764538",
+            "sourceResource": {
+                "title": "[Assignment: OS_2003_1201_169] Office of the Secretary - PRESIDENT GEORGE W. BUSH AND SECRETARY DONALD EVANS AT SIGNING CEREMONY [40_CFD_OS_2003_1201_169_138.JPG]",
+                "rights": "Restrictions: Unrestricted; Use status: Unrestricted",
+                "format": [
+                    "Magnetic Disk: Hard Drive",
+                    "Magnetic Disk"
+                ],
+                "collection": {
+                    "id": "f88d724c58b0cedf575220f46dde777c",
+                    "title": "General Records of the Department of Commerce, 1898 - 2000",
+                    "@id": "http://dp.la/api/collections/f88d724c58b0cedf575220f46dde777c"
+                },
+                "stateLocatedIn": {
+                    "name": "MD"
+                },
+                "isPartOf": "File Unit: [Assignment: OS_2003_1201_169] Office of the Secretary - PRESIDENT GEORGE W. BUSH AND SECRETARY DONALD EVANS AT SIGNING CEREMONY, 05/28/2003 - 05/28/2003; Series: Digital Photographs Relating to Agency Officials, Events and Activities, 2001 - 2005",
+                "date": {
+                    "displayDate": "05/28/2003",
+                    "end": "2003-05-28",
+                    "begin": "2003-05-28"
+                },
+                "type": "image",
+                "creator": "Department of Commerce. Office of the Secretary.\t(1913 -)"
+            },
+            "ingestType": "item",
+            "@id": "http://dp.la/api/items/cd7d670743d8f469daa6e4710d0d2d10",
+            "originalRecord": {
+                "use-restriction": {
+                    "use-status": "Unrestricted",
+                    "specific-use-restrictions": null
+                },
+                "created-timestamp": "1/19/2013 22:3:41",
+                "access-restriction": {
+                    "restriction-status": "Unrestricted",
+                    "specific-access-restrictions": null
+                },
+                "indexable-dates": {
+                    "date-range": "[g_x64_31, g_x32_62, g_x16_125, g_x4_501, g_x4_500, g_x2_1000, b_x2_1002, b_x2_1001, g_x8_250, g_x128_15, b_x1_2001]"
+                },
+                "title-date": "05/28/2003",
+                "general-records-types": {
+                    "general-records-type": {
+                        "general-records-type-desc": "Photographs and other Graphic Materials",
+                        "general-records-type-id": "4237050",
+                        "num": "1"
+                    }
+                },
+                "parent": {
+                    "parent-id": "6764490",
+                    "parent-title": "[Assignment: OS_2003_1201_169] Office of the Secretary - PRESIDENT GEORGE W. BUSH AND SECRETARY DONALD EVANS AT SIGNING CEREMONY, 05/28/2003 - 05/28/2003",
+                    "parent-lod": "File Unit"
+                },
+                "arc-id-desc": "6764538",
+                "physical-occurrences": {
+                    "physical-occurrence": [
+                        {
+                            "reference-units": {
+                                "reference-unit": {
+                                    "summary": "true",
+                                    "num": "1",
+                                    "phone": "301-837-0561",
+                                    "fax": "301-837-3621",
+                                    "email": "stillpixorder@nara.gov",
+                                    "mailcode": "RD-DC-S",
+                                    "name": "National Archives at College Park - Still Pictures",
+                                    "state": "MD",
+                                    "address1": "National Archives at College Park",
+                                    "address2": "8601 Adelphi Road",
+                                    "ref-id": "31",
+                                    "postcode": "20740-6001",
+                                    "city": "College Park"
+                                }
+                            },
+                            "copy-status": "Reproduction-Reference",
+                            "media-occurrences": {
+                                "media-occurrence": {
+                                    "num": "1",
+                                    "media-type": "Magnetic Disk: Hard Drive"
+                                }
+                            }
+                        },
+                        {
+                            "reference-units": {
+                                "reference-unit": {
+                                    "num": "1",
+                                    "phone": "301-837-0561",
+                                    "fax": "301-837-3621",
+                                    "email": "stillpixorder@nara.gov",
+                                    "mailcode": "RD-DC-S",
+                                    "name": "National Archives at College Park - Still Pictures",
+                                    "state": "MD",
+                                    "address1": "National Archives at College Park",
+                                    "address2": "8601 Adelphi Road",
+                                    "ref-id": "31",
+                                    "postcode": "20740-6001",
+                                    "city": "College Park"
+                                }
+                            },
+                            "copy-status": "Preservation",
+                            "media-occurrences": {
+                                "media-occurrence": {
+                                    "num": "1",
+                                    "media-type": "Magnetic Disk"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "creators": {
+                    "creator": {
+                        "summary": "true",
+                        "creator-record-type": "ORG",
+                        "creator-display": "Department of Commerce. Office of the Secretary.\t(1913 - )",
+                        "num": "1",
+                        "standard": "Y",
+                        "creator-id": "1146070",
+                        "creator-type": "Most Recent"
+                    }
+                },
+                "title-only": "[Assignment: OS_2003_1201_169] Office of the Secretary - PRESIDENT GEORGE W. BUSH AND SECRETARY DONALD EVANS AT SIGNING CEREMONY [40_CFD_OS_2003_1201_169_138.JPG]",
+                "title": "[Assignment: OS_2003_1201_169] Office of the Secretary - PRESIDENT GEORGE W. BUSH AND SECRETARY DONALD EVANS AT SIGNING CEREMONY [40_CFD_OS_2003_1201_169_138.JPG]",
+                "production-dates": {
+                    "production-date": "05/28/2003"
+                },
+                "_id": "6764538",
+                "arc-id": "6764538",
+                "level-of-desc": {
+                    "lod-display": "Item",
+                    "level-id": "NAVI"
+                },
+                "parent-control-group": {
+                    "parent-control-lod": "Record Group",
+                    "parent-control-id": "40",
+                    "parent-control-title": "General Records of the Department of Commerce, 1898 - 2000"
+                },
+                "edited-timestamp": "[g_x8_1943, g_x16_971, g_x4_3886, b_x1_15547, g_x64_242, g_x32_485, g_x2_7773, g_x128_121]",
+                "hierarchy": {
+                    "hierarchy-item": [
+                        {
+                            "hierarchy-item-id": "6764490",
+                            "hierarchy-item-lod": "File Unit",
+                            "hierarchy-item-title": "[Assignment: OS_2003_1201_169] Office of the Secretary - PRESIDENT GEORGE W. BUSH AND SECRETARY DONALD EVANS AT SIGNING CEREMONY, 05/28/2003 - 05/28/2003"
+                        },
+                        {
+                            "hierarchy-item-id": "5950225",
+                            "hierarchy-item-inclusive-dates": "2001 - 2005",
+                            "hierarchy-item-lod": "Series",
+                            "hierarchy-item-title": "Digital Photographs Relating to Agency Officials, Events and Activities, 2001 - 2005"
+                        },
+                        {
+                            "hierarchy-item-id": "369",
+                            "hierarchy-item-record-group-number": "40",
+                            "hierarchy-item-lod": "Record Group",
+                            "hierarchy-item-title": "General Records of the Department of Commerce, 1898 - 2000"
+                        }
+                    ]
+                },
+                "objects": {
+                    "object": {
+                        "thumbnail-url": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_169/40_CFD_OS_2003_1201_169_138_t.JPG",
+                        "num": "1",
+                        "object-sequence-number": "1",
+                        "mime-type": "image/jpeg",
+                        "file-size": "3751936",
+                        "file-url": "http://media.nara.gov/stillpix/040-cfd/OS_2003_1201_169/40_CFD_OS_2003_1201_169_138.JPG"
+                    }
+                }
+            },
+            "score": 1
+        }
+    ],
+    "facets": []
+}

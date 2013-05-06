@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>02212cam a2200529 a 4500</leader>
+  <controlfield tag="001">746732</controlfield>
+  <controlfield tag="005">20021010114347.0</controlfield>
+  <controlfield tag="008">930217s1884    enka          000 1 eng  </controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">(DLC)   35020965</subfield>
+  </datafield>
+  <datafield tag="906" ind1=" " ind2=" ">
+    <subfield code="a">7</subfield>
+    <subfield code="b">cbc</subfield>
+    <subfield code="c">orignew</subfield>
+    <subfield code="d">1</subfield>
+    <subfield code="e">ocip</subfield>
+    <subfield code="f">19</subfield>
+    <subfield code="g">y-gencatlg</subfield>
+  </datafield>
+  <datafield tag="955" ind1=" " ind2=" ">
+    <subfield code="a">NEW INPUT qr09 02-17-93</subfield>
+  </datafield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   35020965 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-usm--</subfield>
+    <subfield code="a">n-us-mo</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PS1305</subfield>
+    <subfield code="b">.A1 1884</subfield>
+  </datafield>
+  <datafield tag="051" ind1=" " ind2=" ">
+    <subfield code="a">PS1305</subfield>
+    <subfield code="b">.A1 1884 Copy 2</subfield>
+    <subfield code="c">Copy 2. In quarter bound morocco slipcase. Thread-sewn.</subfield>
+  </datafield>
+  <datafield tag="051" ind1=" " ind2=" ">
+    <subfield code="a">PS1305</subfield>
+    <subfield code="b">.A1 1884 Copy 3</subfield>
+    <subfield code="c">Copy 3. Thread-sewn. Source: Gift of Frances R. Friedman, June 15, 1992.</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="0">
+    <subfield code="a">817.44</subfield>
+    <subfield code="2">20</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Twain, Mark,</subfield>
+    <subfield code="d">1835-1910.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Adventures of Huckleberry Finn</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">The adventures of Huckleberry Finn (Tom Sawyer's comrade) /</subfield>
+    <subfield code="c">by Mark Twain (Samuel L. Clemens).</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">Chatto &amp; Windus,</subfield>
+    <subfield code="c">1884.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">xvi, 438, 32 p. :</subfield>
+    <subfield code="b">ill. ;</subfield>
+    <subfield code="c">20 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Publisher's advertisements, dated Oct. 1884, on 32 p. at end.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">BAL notes two states of gatherings: A is thread-sewn ; B is saddle stitched with wire staples.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">BAL</subfield>
+    <subfield code="c">3414</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">LC copy thread-sewn ; stamped on t.p., etc.: T. Petersen; signed on half title page: Theodor Petersen.</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Source: Gift of Leonard Kebler, June 28, 1948.</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Finn, Huckleberry (Fictitious character)</subfield>
+    <subfield code="v">Fiction.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Mississippi River</subfield>
+    <subfield code="v">Fiction.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Runaway children</subfield>
+    <subfield code="v">Fiction.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Male friendship</subfield>
+    <subfield code="v">Fiction.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Fugitive slaves</subfield>
+    <subfield code="v">Fiction.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Race relations</subfield>
+    <subfield code="v">Fiction.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Missouri</subfield>
+    <subfield code="v">Fiction.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Boys</subfield>
+    <subfield code="v">Fiction.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Adventure fiction.</subfield>
+    <subfield code="2">gsafd</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Humorous fiction.</subfield>
+    <subfield code="2">gsafd</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Bildungsromans.</subfield>
+    <subfield code="2">gsafd</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Roy J. Friedman Mark Twain Collection (Library of Congress)</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="922" ind1=" " ind2=" ">
+    <subfield code="a">ad</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">Recat to AACR2: qr09 02-17-93</subfield>
+  </datafield>
+  <datafield tag="985" ind1=" " ind2=" ">
+    <subfield code="a">rarebk/rbc</subfield>
+    <subfield code="e">rbc</subfield>
+  </datafield>
+  <datafield tag="985" ind1=" " ind2=" ">
+    <subfield code="a">rarebk/fri</subfield>
+    <subfield code="e">rbc</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="b">c-RareBook</subfield>
+    <subfield code="h">PS1305</subfield>
+    <subfield code="i">.A1 1884</subfield>
+    <subfield code="t">Copy 1</subfield>
+    <subfield code="w">BOOKS</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="b">c-RareBook</subfield>
+    <subfield code="h">PS1305</subfield>
+    <subfield code="i">.A1 1884</subfield>
+    <subfield code="t">Copy 2</subfield>
+    <subfield code="w">BOOKS</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="b">c-RareBook</subfield>
+    <subfield code="h">PS1305</subfield>
+    <subfield code="i">.A1 1884</subfield>
+    <subfield code="t">Copy 3</subfield>
+    <subfield code="m">Friedman Twain Coll</subfield>
+    <subfield code="w">BOOKS</subfield>
+  </datafield>
+</record>

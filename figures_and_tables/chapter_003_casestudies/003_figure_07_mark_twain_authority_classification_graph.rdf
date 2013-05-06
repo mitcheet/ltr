@@ -1,0 +1,12 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <bf:ClassificationEntity xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/classificationentity13">
+    <bf:classScheme xmlns:dcterms="http://purl.org/dc/terms/">lcc</bf:classScheme>
+    <bf:classNumber xmlns:dcterms="http://purl.org/dc/terms/">PS1305</bf:classNumber>
+    <bf:classCopy xmlns:dcterms="http://purl.org/dc/terms/">Copy 2. In quarter bound morocco slipcase. Thread-sewn.</bf:classCopy>
+  </bf:ClassificationEntity>
+  <bf:ClassificationEntity xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/classificationentity14">
+    <bf:classScheme xmlns:dcterms="http://purl.org/dc/terms/">ddc</bf:classScheme>
+    <bf:classNumber xmlns:dcterms="http://purl.org/dc/terms/">817.44</bf:classNumber>
+    <bf:classEdition xmlns:dcterms="http://purl.org/dc/terms/">full</bf:classEdition>
+  </bf:ClassificationEntity>
+  </rdf:RDF>

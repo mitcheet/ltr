@@ -1,0 +1,10 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/746732">
+    <rdf:type xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://bibframe.org/vocab/LanguageMaterial"/>
+    <bf:title xmlns:dcterms="http://purl.org/dc/terms/">The adventures of Huckleberry Finn (Tom Sawyer's comrade)</bf:title>
+    <bf:class-lcc xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://id.loc.gov/authorities/classification/PS1305"/>
+    <bf:creator rdf:resource="http://bibframe.org/resources/aNJ1367336414/person1"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/aNJ1367336414/topic2"/>
+    <bf:instance rdf:resource="http://bibframe.org/resources/aNJ1367336414/instance1"/>
+  </bf:Work>
+  </rdf:RDF>

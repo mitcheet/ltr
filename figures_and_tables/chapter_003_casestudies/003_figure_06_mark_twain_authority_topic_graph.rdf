@@ -1,0 +1,7 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/topic2">
+    <rdf:type xmlns:dcterms="http://purl.org/dc/terms/" rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">Finn, Huckleberry (Fictitious character)--Fiction</bf:label>
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Finn, Huckleberry (Fictitious character)--Fiction</madsrdf:authoritativeLabel>
+  </bf:Topic>
+  </rdf:RDF>

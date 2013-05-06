@@ -1,0 +1,8 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/aNJ1367336414/person1">
+    <bf:label xmlns:dcterms="http://purl.org/dc/terms/">Twain, Mark, 1835-1910.</bf:label>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcterms="http://purl.org/dc/terms/">Twain, Mark, 1835-1910.</rdfs:label>
+    <madsrdf:authoritativeLabel xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:dcterms="http://purl.org/dc/terms/">Twain, Mark, 1835-1910.</madsrdf:authoritativeLabel>
+    <bf:descriptionRole xmlns:dcterms="http://purl.org/dc/terms/">primary</bf:descriptionRole>
+  </bf:Person>
+  </rdf:RDF>
