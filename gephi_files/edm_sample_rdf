@@ -1,0 +1,73 @@
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:edm="http://www.e.eu/schemas/edm/" xmlns:ese="http://www.e.eu" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml/vocab#" xmlns:cc="http://creativecommons.org/ns#" xmlns:str="http://exslt.org/strings">
+	<edm:ProvidedCHO rdf:about="http://data.e.eu/item/item1">
+		<foaf:isPrimaryTopicOf rdf:resource="http://www.e.eu/resolve/record/item1"/>
+		<foaf:isPrimaryTopicOf rdf:resource="http://data.e.eu/rm/europeana/item1"/>
+	</edm:ProvidedCHO>
+	<ore:Aggregation rdf:about="http://data.e.eu/aggregation/provider/item1">
+		<edm:aggregatedCHO rdf:resource="http://data.e.eu/item/item1"/>
+		<edm:dataProvider>The British Library</edm:dataProvider>
+		<edm:isShownAt rdf:resource="http://www.bl.uk/onlinegallery/onlineex/apac/addorimss/s/019addor0000002u00000000.html"/>
+		<edm:isShownBy rdf:resource="http://ogimages.bl.uk/images/[SVC2].jpg"/>
+		<edm:isShownBy rdf:resource="http://www.bl.uk/onlinegallery/onlineex/apac/addorimss/s/zoomify54784.html"/>
+		<edm:object rdf:resource="http://ogimages.bl.uk/images/[SVC1].jpg"/>
+		<edm:provider>The European Library</edm:provider>
+		<dc:rights>Copyright © British Library Board</dc:rights>
+	</ore:Aggregation>
+	<ore:Proxy rdf:about="http://data.e.eu/proxy/provider/item1">
+		<ore:proxyFor rdf:resource="http://data.e.eu/item/item1"/>
+		<ore:proxyIn rdf:resource="http://data.e.eu/aggregation/provider/item1"/>
+		<edm:type>IMAGE</edm:type>
+		<dc:description>Watercolour of a European, probably Sir David Ochterlony (1758-1825), in Indian dress, smoking a hookah and watching a nautch in his house at Delhi, by an anonymous artist working in the Delhi style, c. 1820.Although this painting is not inscribed, the central figure strikingly resembles other portraits of Ochterlony, a Major-General who was credited with ensuring British success in the Nepal War (1814-16) and who became infamous in Delhi, where he lived from 1803 to 1825. He had a house in Delhi as well as a garden-house on the road to Azalpur and he lived in Indian style. He was twice Resident at Delhi, 1803-06 and 1818-22. The lined face and white hair would suggest that this portrait was made in his later years and family portraits hang on the wall.</dc:description>
+		<dc:title>Sir David Ochterlony in Indian dress and smoking a hookah and watching a nautch in his house in Delhi</dc:title>
+		<dc:format>jpeg</dc:format>
+		<dct:spatial>77.216667, 28.666668</dct:spatial>
+		<dct:spatial>Delhi</dct:spatial>
+		<dct:extent>25.5</dct:extent>
+		<dct:extent>35.2</dct:extent>
+		<dct:extent>Centimetres</dct:extent>
+		<dc:creator>Artist : Anonymous</dc:creator>
+		<dct:medium>Watercolour</dct:medium>
+		<dc:identifier>019ADDOR0000002U00000000</dc:identifier>
+		<dc:identifier>Add.Or.2</dc:identifier>
+		<dc:date>[1820]</dc:date>
+		<dct:isPartOf>Asia, Pacific and Africa Collections. Collect Britain</dct:isPartOf>
+		<dct:created>c.1820</dct:created>
+		<dc:subject>Ochterlony, Sir David (1758-1825)</dc:subject>
+		<dc:subject>dancers and musicians</dc:subject>
+		<dc:subject>hookahs</dc:subject>
+		<dc:subject>portraits</dc:subject>
+		<dc:subject>sports and pastimes</dc:subject>
+		<dc:subject>water-colour</dc:subject>
+		<dc:subject>Delhi style</dc:subject>
+		<dc:subject>South Asia -- History</dc:subject>
+		<dc:subject>954</dc:subject>
+		<dc:type>StillImage</dc:type>
+		<dc:type>Drawing</dc:type>
+	</ore:Proxy>
+	<edm:EuropeanaAggregation rdf:about="http://data.e.eu/aggregation/europeana/item1">
+		<edm:aggregatedCHO rdf:resource="http://data.e.eu/item/item1"/>
+		<ore:isDescribedBy rdf:resource="http://data.e.eu/rm/europeana/item1"/>
+		<ore:aggregates rdf:resource="http://data.e.eu/aggregation/provider/item1"/>
+		<dc:creator>Europeana</dc:creator>
+		<edm:landingPage rdf:resource="http://www.e.eu/portal/record/item1.html"/>
+		<edm:preview rdf:resource="http://europeanastatic.eu/api/image?uri=http%3A%2F%2Fogimages.bl.uk%2Fimages%2F019%2F019ADDOR0000002U00000000%5BSVC1%5D.jpg&amp;size=FULL_DOC&amp;type=IMAGE"/>
+		<edm:collectionName>92037_Ag_EU_TEL_a0444_BritishLibrary</edm:collectionName>
+		<edm:country>united kingdom</edm:country>
+		<edm:language>en</edm:language>
+	</edm:EuropeanaAggregation>
+	<ore:Proxy rdf:about="http://data.e.eu/proxy/europeana/item1">
+		<ore:proxyFor rdf:resource="http://data.e.eu/item/item1"/>
+		<ore:proxyIn rdf:resource="http://data.e.eu/aggregation/europeana/item1"/>
+		<edm:year>1820</edm:year>
+	</ore:Proxy>
+	<ore:ResourceMap rdf:about="http://data.e.eu/rm/europeana/item1">
+		<foaf:primaryTopic rdf:resource="http://data.e.eu/item/item1"/>
+		<ore:describes rdf:resource="http://data.e.eu/aggregation/europeana/item1"/>
+		<xhtml:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+		<cc:useGuidelines rdf:resource="http://www.e.eu/rights/metadata-usage-guidelines/"/>
+		<dc:publisher>Europeana</dc:publisher>
+		<dc:contributor>The European Library</dc:contributor>
+		<dc:contributor>The British Library</dc:contributor>
+	</ore:ResourceMap>
+</rdf:RDF>
